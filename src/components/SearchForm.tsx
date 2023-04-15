@@ -6,19 +6,14 @@ const SearchForm = () => {
   return (
     <div className="border-double border-4 border-sky-500">
       Search Condition(s)
-      <AutoCompleteInput />
-      <MultipleOptionsInput />
       <div>
-        <label htmlFor="area">Choose areas* (e.g. Ginza, Asakusa)</label>
-        <MultipleOptionsInput />
+        <MultipleOptionsInput title="Areas" placeholder="e.g. Ginza, Asakusa"/>
       </div>
       <div>
-        <label htmlFor="budget">Budget (¥)*</label>
-        <MultipleOptionsInput />
+        <MultipleOptionsInput title="Budget (¥)" placeholder="foobar"/>
       </div>
       <div>
-        <label htmlFor="count">Showing no. of results</label>
-        <AutoCompleteInput />
+        <AutoCompleteInput title="No. of results" />
       </div>
       <div>
         <label htmlFor="capacity">Party Capacity (more than)</label>

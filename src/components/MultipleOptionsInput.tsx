@@ -3,7 +3,15 @@ import Chip from '@mui/material/Chip'
 import TextField from '@mui/material/TextField'
 import Autocomplete from '@mui/material/Autocomplete'
 
-const MultipleOptionsInput = () => {
+interface MultipleOptionsInputProps {
+  title: string
+  placeholder: string
+}
+
+const MultipleOptionsInput = ({
+  title,
+  placeholder,
+}: MultipleOptionsInputProps) => {
   const fixedOptions = [top100Films[6]]
   const [value, setValue] = React.useState([...fixedOptions, top100Films[13]])
 
@@ -33,8 +41,8 @@ const MultipleOptionsInput = () => {
       renderInput={(params) => (
         <TextField
           {...params}
-          label="Fixed tag"
-          placeholder="Favorites"
+          label={title}
+          placeholder={placeholder}
         />
       )}
     />

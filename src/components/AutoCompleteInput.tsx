@@ -1,22 +1,26 @@
 import { Autocomplete, TextField } from '@mui/material'
 
-const AutoCompleteInput = () => {
-  const options = ['The Godfather', 'Pulp Fiction'];
+interface AutoCompleteInputProps {
+  title: string
+}
+
+const AutoCompleteInput = ({ title }: AutoCompleteInputProps) => {
+  const options = ['The Godfather', 'Pulp Fiction']
 
   return (
-        <Autocomplete
-        disablePortal
-        id="combo-box-demo"
-        options={options}
-        sx={{ width: 300 }}
-        renderInput={(params) => (
-          <TextField
-            {...params}
-            label="Movie"
-          />
-        )}
-      />
-  );
-};
+    <Autocomplete
+      disablePortal
+      id="combo-box-demo"
+      options={options}
+      sx={{ width: 300 }}
+      renderInput={(params) => (
+        <TextField
+          {...params}
+          label={title}
+        />
+      )}
+    />
+  )
+}
 
-export default AutoCompleteInput;
+export default AutoCompleteInput
