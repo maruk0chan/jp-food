@@ -9,6 +9,10 @@ const Introduction = () => {
         your search condition. 😉
       </p>
       <p>
+        This application requires <a href="https://www.google.com/chrome/">Chrome</a> and <a href="https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf?hl=en">CORS extension</a>.
+      </p>
+      <p><i className='ml-5 text-sm'>Please note that it may cause <b>security problems</b> if you browse other sites with CORS enabled so turn it on <b>only if</b> you are using this application</i></p>
+      <p>
         Select some conditions to filter out the restaurants you are looking for
       </p>
       <p>The following default example shows you if you wanna find:</p>
