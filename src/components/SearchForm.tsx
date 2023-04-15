@@ -4,8 +4,8 @@ import MultipleOptionsInput from './MultipleOptionsInput'
 
 const SearchForm = () => {
   return (
-    <div className="border-double border-4 border-sky-500">
-      Search Condition(s)
+    <div className="border-double border-4 border-sky-500 space-y-4">
+      <div>Search Conditions</div>
       <div>
         <MultipleOptionsInput title="Areas" placeholder="e.g. Ginza, Asakusa"/>
       </div>
