@@ -14,7 +14,7 @@ export default function MultipleOptionsInput() {
       value={value}
       onChange={(event, newValue) => {
         setValue([
-          ...fixedOptions,
+          // ...fixedOptions,
           ...newValue.filter((option) => fixedOptions.indexOf(option) === -1),
         ])
       }}
