@@ -32,3 +32,8 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+a {
+  color: blue;
+  text-decoration: underline;
+}
