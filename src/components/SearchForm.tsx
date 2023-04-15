@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Introduction = () => {
+const SearchForm = () => {
   return (
     <div className='border-double border-4 border-sky-500'>
-      <p>this is introduction</p>
+      This is a search form.
     </div>
   );
 };
 
-export default Introduction;
+export default SearchForm;

@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Introduction = () => {
+const ResultTable = () => {
   return (
     <div className='border-double border-4 border-sky-500'>
-      <p>this is introduction</p>
+      This is a result table.
     </div>
   );
 };
 
-export default Introduction;
+export default ResultTable;
