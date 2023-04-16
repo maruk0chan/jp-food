@@ -9,7 +9,7 @@ const url =
   )
 
 const SearchForm = () => {
-  const [data, setData] = useState()
+  const [data, setData] = useState<any[]>()
 
   // fetch data
   const dataFetch = async () => {
@@ -44,7 +44,7 @@ const SearchForm = () => {
       <div>
         <button onClick={dataFetch}>Search</button>
         <button>Copy</button>
-        <div>Return result: {data?.results.results_available}</div>
+        <div>Return result: {data ? 'has data' : 'no data'}</div>
       </div>
     </div>
   )
