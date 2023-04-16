@@ -10,6 +10,7 @@ const url =
 
 const SearchForm = () => {
   const [data, setData] = useState<any[]>()
+  const [shopList, setShopList] = useState([])
 
   // fetch data
   const dataFetch = async () => {
@@ -17,6 +18,8 @@ const SearchForm = () => {
 
     // set state when the data received
     setData(data)
+    console.log(`🤖\x1B[40;93;1mdata: \x1B[m`, data.results.shop)
+    setShopList(data.results.shop)
   }
 
   return (
@@ -44,7 +47,7 @@ const SearchForm = () => {
       <div>
         <button onClick={dataFetch}>Search</button>
         <button>Copy</button>
-        <div>Return result: {data ? 'has data' : 'no data'}</div>
+        <div>Return result: {shopList.length}</div>
       </div>
     </div>
   )
