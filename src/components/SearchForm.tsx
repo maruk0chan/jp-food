@@ -44,6 +44,7 @@ const SearchForm = () => {
       <div>
         <button onClick={dataFetch}>Search</button>
         <button>Copy</button>
+        <div>Return result: {data?.results.results_available}</div>
       </div>
     </div>
   )
