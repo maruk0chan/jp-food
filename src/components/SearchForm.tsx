@@ -1,11 +1,16 @@
 import React, { useEffect, useState } from 'react'
 import AutocompleteInput from './AutocompleteInput'
 import MultipleAutocompleteInput from './MultipleAutocompleteInput'
+import hot_pepper_api from '../json/hot_pepper_api.json'
+
+const corsProxyPrefix = 'https://corsproxy.io/?'
+
+const { base_url, key, format } = hot_pepper_api
 
 const url =
-  'https://corsproxy.io/?' +
+  corsProxyPrefix +
   encodeURIComponent(
-    'https://webservice.recruit.co.jp/hotpepper/gourmet/v1/?key=bfa93fda871977e1&small_area=X021,X025,x045&count=20&party_capacity=50&format=json'
+    `${base_url}/?key=${key}&small_area=X021,X025,x045&count=20&party_capacity=50&format=${format}`
   )
 
 const SearchForm = () => {
