@@ -1,0 +1,315 @@
+{
+	"access": {
+		"id": "access",
+		"tag": "Access",
+		"options": []
+	},
+	"address": {
+		"id": "address",
+		"tag": "Address",
+		"options": []
+	},
+	"band": {
+		"id": "band",
+		"tag": "Band",
+		"options": []
+	},
+	"barrier_free": {
+		"id": "barrier_free",
+		"tag": "Barrier free",
+		"options": []
+	},
+	"budget": {
+		"id": "budget",
+		"tag": "Budget",
+		"options": [
+			{
+				"code": "B009",
+				"name": "～500円"
+			},
+			{
+				"code": "B010",
+				"name": "501～1000円"
+			},
+			{
+				"code": "B011",
+				"name": "1001～1500円"
+			},
+			{
+				"code": "B001",
+				"name": "1501～2000円"
+			},
+			{
+				"code": "B002",
+				"name": "2001～3000円"
+			},
+			{
+				"code": "B003",
+				"name": "3001～4000円"
+			},
+			{
+				"code": "B008",
+				"name": "4001～5000円"
+			},
+			{
+				"code": "B004",
+				"name": "5001～7000円"
+			},
+			{
+				"code": "B005",
+				"name": "7001～10000円"
+			},
+			{
+				"code": "B006",
+				"name": "10001～15000円"
+			},
+			{
+				"code": "B012",
+				"name": "15001～20000円"
+			},
+			{
+				"code": "B013",
+				"name": "20001～30000円"
+			},
+			{
+				"code": "B014",
+				"name": "30001円～"
+			}
+		]
+	},
+	"budget_memo": {
+		"id": "budget_memo",
+		"tag": "Budget memo",
+		"options": []
+	},
+	"capacity": {
+		"id": "capacity",
+		"tag": "Capacity",
+		"options": []
+	},
+	"card": {
+		"id": "card",
+		"tag": "Card",
+		"options": []
+	},
+	"catch": {
+		"id": "catch",
+		"tag": "Catch",
+		"options": []
+	},
+	"charter": {
+		"id": "charter",
+		"tag": "Charter",
+		"options": []
+	},
+	"child": {
+		"id": "child",
+		"tag": "Child",
+		"options": []
+	},
+	"close": {
+		"id": "close",
+		"tag": "Close",
+		"options": []
+	},
+	"count": {
+		"id": "count",
+		"tag": "Count",
+		"options": [10, 20, 50, 100]
+	},
+	"coupon_urls": {
+		"id": "coupon_urls",
+		"tag": "Coupon urls",
+		"options": []
+	},
+	"course": {
+		"id": "course",
+		"tag": "Course",
+		"options": []
+	},
+	"english": {
+		"id": "english",
+		"tag": "English",
+		"options": []
+	},
+	"free_drink": {
+		"id": "free_drink",
+		"tag": "Free drink",
+		"options": []
+	},
+	"free_food": {
+		"id": "free_food",
+		"tag": "Free food",
+		"options": []
+	},
+	"genre": {
+		"id": "genre",
+		"tag": "Genre",
+		"options": []
+	},
+	"horigotatsu": {
+		"id": "horigotatsu",
+		"tag": "Horigotatsu",
+		"options": []
+	},
+	"id": {
+		"id": "id",
+		"tag": "Id",
+		"options": []
+	},
+	"karaoke": {
+		"id": "karaoke",
+		"tag": "Karaoke",
+		"options": []
+	},
+	"ktai_coupon": {
+		"id": "ktai_coupon",
+		"tag": "Ktai coupon",
+		"options": []
+	},
+	"large_area": {
+		"id": "large_area",
+		"tag": "Large area",
+		"options": []
+	},
+	"large_service_area": {
+		"id": "large_service_area",
+		"tag": "Large service area",
+		"options": []
+	},
+	"lat": {
+		"id": "lat",
+		"tag": "Lat",
+		"options": []
+	},
+	"lng": {
+		"id": "lng",
+		"tag": "Lng",
+		"options": []
+	},
+	"logo_image": {
+		"id": "logo_image",
+		"tag": "Logo image",
+		"options": []
+	},
+	"lunch": {
+		"id": "lunch",
+		"tag": "Lunch",
+		"options": []
+	},
+	"middle_area": {
+		"id": "middle_area",
+		"tag": "Middle area",
+		"options": []
+	},
+	"midnight": {
+		"id": "midnight",
+		"tag": "Midnight",
+		"options": []
+	},
+	"mobile_access": {
+		"id": "mobile_access",
+		"tag": "Mobile access",
+		"options": []
+	},
+	"name": {
+		"id": "name",
+		"tag": "Name",
+		"options": []
+	},
+	"name_kana": {
+		"id": "name_kana",
+		"tag": "Name kana",
+		"options": []
+	},
+	"non_smoking": {
+		"id": "non_smoking",
+		"tag": "Non smoking",
+		"options": []
+	},
+	"open": {
+		"id": "open",
+		"tag": "Open",
+		"options": []
+	},
+	"other_memo": {
+		"id": "other_memo",
+		"tag": "Other memo",
+		"options": []
+	},
+	"parking": {
+		"id": "parking",
+		"tag": "Parking",
+		"options": []
+	},
+	"party_capacity": {
+		"id": "party_capacity",
+		"tag": "Party capacity",
+		"options": []
+	},
+	"pet": {
+		"id": "pet",
+		"tag": "Pet",
+		"options": []
+	},
+	"photo": {
+		"id": "photo",
+		"tag": "Photo",
+		"options": []
+	},
+	"private_room": {
+		"id": "private_room",
+		"tag": "Private room",
+		"options": []
+	},
+	"service_area": {
+		"id": "service_area",
+		"tag": "Service area",
+		"options": []
+	},
+	"shop_detail_memo": {
+		"id": "shop_detail_memo",
+		"tag": "Shop detail memo",
+		"options": []
+	},
+	"show": {
+		"id": "show",
+		"tag": "Show",
+		"options": []
+	},
+	"small_area": {
+		"id": "small_area",
+		"tag": "Small area",
+		"options": []
+	},
+	"station_name": {
+		"id": "station_name",
+		"tag": "Station name",
+		"options": []
+	},
+	"sub_genre": {
+		"id": "sub_genre",
+		"tag": "Sub genre",
+		"options": []
+	},
+	"tatami": {
+		"id": "tatami",
+		"tag": "Tatami",
+		"options": []
+	},
+	"tv": {
+		"id": "tv",
+		"tag": "Tv",
+		"options": []
+	},
+	"urls": {
+		"id": "urls",
+		"tag": "Urls",
+		"options": []
+	},
+	"wedding": {
+		"id": "wedding",
+		"tag": "Wedding",
+		"options": []
+	}
+}

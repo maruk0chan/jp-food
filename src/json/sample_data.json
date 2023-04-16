@@ -1,0 +1,3859 @@
+{
+  "results": {
+    "api_version": "1.26",
+    "results_available": 571,
+    "results_returned": "50",
+    "results_start": 1,
+    "shop": [
+      {
+        "access": "上野駅3分◆アメ横通りのすぐ近く！SNSで話題！本場四川の味を再現した絶品『火鍋』12種の特製つけダレで堪能♪",
+        "address": "東京都台東区上野４-6-9 パサージュビル1F～2F",
+        "band": "不可",
+        "barrier_free": "なし",
+        "budget": {
+          "average": "3000円",
+          "code": "B003",
+          "name": "3001～4000円"
+        },
+        "budget_memo": "",
+        "capacity": 116,
+        "card": "利用可",
+        "catch": "本場四川省の絶品火鍋☆ SNSや各メディアで大人気!",
+        "charter": "貸切可",
+        "child": "お子様連れOK",
+        "close": "年中無休",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001294775/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001294775/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "なし",
+        "free_drink": "あり",
+        "free_food": "あり",
+        "genre": {
+          "catch": "SNSで話題！熊猫火鍋しゃぶしゃぶ♪駅3分！",
+          "code": "G008",
+          "name": "焼肉・ホルモン"
+        },
+        "horigotatsu": "なし",
+        "id": "J001294775",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7089007024,
+        "lng": 139.7745427474,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/57/62/P040105762/P040105762_69.jpg",
+        "lunch": "あり",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業している",
+        "mobile_access": "上野駅より徒歩3分",
+        "name": "熊猫火鍋 上野店",
+        "name_kana": "ひなべ　しゃぶしゃぶ　たべほうだい　ぱんだひなべ　うえのてん",
+        "non_smoking": "全面禁煙",
+        "open": "月～日、祝日、祝前日: 11:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）",
+        "other_memo": "",
+        "parking": "なし",
+        "party_capacity": 116,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/58/09/P040105809/P040105809_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/58/09/P040105809/P040105809_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/58/09/P040105809/P040105809_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/58/09/P040105809/P040105809_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/58/09/P040105809/P040105809_58_s.jpg"
+          }
+        },
+        "private_room": "あり",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "京成上野",
+        "sub_genre": { "code": "G001", "name": "居酒屋" },
+        "tatami": "なし",
+        "tv": "あり",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001294775/?vos=nhppalsa000016"
+        },
+        "wedding": "",
+        "wifi": "あり"
+      },
+      {
+        "access": "JR上野駅不忍口 徒歩1分/地下鉄上野駅 5番出口 徒歩2分/京成本線京成上野駅 上野公園口徒歩2分　好アクセスの焼き鳥屋◎",
+        "address": "東京都台東区上野４－１０－５　THE V-CITY UENO　B1",
+        "band": "不可",
+        "barrier_free": "なし ：※お手伝いが必要な方はスタッフまでお申し付け下さい。",
+        "budget": {
+          "average": "3300円",
+          "code": "B003",
+          "name": "3001～4000円"
+        },
+        "budget_memo": "席料としてお通し代あり。（コース時は料金に含まれます）",
+        "capacity": 116,
+        "card": "利用可",
+        "catch": "早割・遅割特典20％OFF 備長炭で手焼きの串焼き☆",
+        "charter": "貸切可 ：着席時116名様までご宴会可能です。貸切のご相談はお早めにお願い致します。詳細は店舗までご相談ください",
+        "child": "お子様連れ歓迎 ：お子様連れも歓迎致します。ご家族でもゆったりお食事可能です！広めのお席もございますのでご相談ください",
+        "close": "無※当店の最新の営業情報・定休日はトップページ下部の「お店のホームページ」リンクよりご確認いただけます。",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ000014083/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ000014083/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "なし",
+        "free_drink": "あり ：各種飲み放題付きコースをご用意。各種ご宴会の予約承ります　☆単品飲み放題のみのご注文も承ります。",
+        "free_food": "なし ：当店では食べ放題プランはご用意しておりません。飲み放題付のご宴会コースがボリュームもあり好評です。",
+        "genre": {
+          "catch": "上野 焼き鳥 個室 飲み放題 宴会 合コン",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "あり ：掘りごたつ席のご希望はお気軽にご相談下さい。団体宴会など各種ご宴会のご予約承っております。",
+        "id": "J000014083",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7107460423,
+        "lng": 139.774250198,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/71/66/P028117166/P028117166_69.jpg",
+        "lunch": "なし",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業していない",
+        "mobile_access": "上野駅徒歩2分",
+        "name": "個室居酒屋 炭火やきとり うえのとり",
+        "name_kana": "こしついざかや　すみびやきとり　うえのとり",
+        "non_smoking": "全面禁煙",
+        "open": "月～金、祝前日: 17:00～23:30 （料理L.O. 22:30 ドリンクL.O. 23:00）土、日、祝日: 16:00～23:30 （料理L.O. 22:30 ドリンクL.O. 23:00）",
+        "other_memo": "※不明点等、お気軽に店舗へご相談下さい。",
+        "parking": "なし ：お酒を飲まれる際はお車でのお越しはご遠慮ください。",
+        "party_capacity": 35,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/11/11/P041331111/P041331111_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/11/11/P041331111/P041331111_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/11/11/P041331111/P041331111_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/11/11/P041331111/P041331111_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/11/11/P041331111/P041331111_58_s.jpg"
+          }
+        },
+        "private_room": "あり ：2名～ご相談に応じます。少人数から団体様まで様々なシーン対応！最大110名様迄ご収容可能です。",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "各種飲み放題付きコース等をご用意しております。",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G004", "name": "和食" },
+        "tatami": "なし ：お座敷はございませんが、個室席や掘りごたつのお席をご用意致しました。お席のご希望もご相談ください",
+        "tv": "なし",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ000014083/?vos=nhppalsa000016"
+        },
+        "wedding": "各種パーティーや結婚式2次会もお手伝いします。お気軽にご相談下さい。",
+        "wifi": "未確認"
+      },
+      {
+        "access": "JR上野駅・御徒町駅・上野広小路駅より徒歩3分♪パセラの隣です♪",
+        "address": "東京都文京区湯島３丁目40番7号カスタムビル",
+        "band": "不可",
+        "barrier_free": "なし ：バリアフリーではありませんが、荷物の持ち運びなどスタッフがご協力させて頂きます♪",
+        "budget": {
+          "average": "2680円",
+          "code": "B002",
+          "name": "2001～3000円"
+        },
+        "budget_memo": "お通し代",
+        "capacity": 110,
+        "card": "利用可",
+        "catch": "鮮魚・餃子・鍋等々ご用意 198円ドリンク18時半迄",
+        "charter": "貸切不可 ：ご利用人数やご予算などお気軽に問い合わせください！",
+        "child": "お子様連れ歓迎 ：お子様連れのママ会や各種パーティーなども喜んで承ります！お気軽にお問い合わせ下さい！",
+        "close": "年中無休（NET予約なら24時間予約受付中です♪）",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001249310/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001249310/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "なし",
+        "free_drink": "あり ：飲み放題付きコースを多数ご用意！ご予算に合わせてお選び下さい♪詳細はコースページにて！",
+        "free_food": "あり ：嬉しい食べ放題コースをご用意！詳細はコースページにてご確認下さい！",
+        "genre": {
+          "catch": "上野 居酒屋 個室♪座敷 食飲放題 駅近宴会",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "あり ：ゆったり寛げる掘りごたつ座敷は最大35名様までOK！人気席の為、お早めにお問い合わせ下さい！",
+        "id": "J001249310",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7079699143,
+        "lng": 139.7723185294,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/37/11/P040573711/P040573711_69.jpg",
+        "lunch": "あり",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業している",
+        "mobile_access": "JR上野駅･御徒町駅･上野広小路駅より徒歩3分",
+        "name": "祭家夢吉 上野広小路店",
+        "name_kana": "まつりやゆめきち　うえのひろこうじてん",
+        "non_smoking": "一部禁煙",
+        "open": "月～土、祝日、祝前日: 11:00～翌6:00 （料理L.O. 翌5:30 ドリンクL.O. 翌5:30）日: 11:00～翌0:00 （料理L.O. 23:30 ドリンクL.O. 23:30）",
+        "other_memo": "何かあればお問い合わせください♪",
+        "parking": "なし ：駐車場はございませんので、近隣コインパーキングをご利用下さい♪",
+        "party_capacity": 100,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/56/69/P040545669/P040545669_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/56/69/P040545669/P040545669_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/56/69/P040545669/P040545669_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/56/69/P040545669/P040545669_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/56/69/P040545669/P040545669_58_s.jpg"
+          }
+        },
+        "private_room": "あり ：個室は4名様～最大35名様までOK！周りを気にせずお楽しみ頂くならやっぱり個室！お気軽にお問い合わせを♪",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "会社宴会を始め、女子会やママ会など各種宴会のご予約も喜んで承っております♪",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "御徒町",
+        "sub_genre": { "code": "G004", "name": "和食" },
+        "tatami": "あり ：ゆったり寛げるお座敷個室は最大35名様までOK！人気席の為、お早めにお問い合わせ下さい！",
+        "tv": "なし",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001249310/?vos=nhppalsa000016"
+        },
+        "wedding": "日時や人数、ご予算などお気軽にお問い合わせ下さい♪",
+        "wifi": "あり"
+      },
+      {
+        "access": "JR上野駅徒歩3分地鶏の炭火焼鳥食べ放題2,980円~",
+        "address": "東京都台東区上野２-12-1 8F",
+        "band": "不可",
+        "barrier_free": "あり ：バリアフリーの詳細はお店にお問合せください。（上野/個室/居酒屋/食べ放題/飲み放題/宴会/女子会/接待）",
+        "budget": {
+          "average": "3,000円　★焼き鳥食べ放題＆3h飲み放題付⇒3,000円！",
+          "code": "B002",
+          "name": "2001～3000円"
+        },
+        "budget_memo": "お通し代あり(コース除く)",
+        "capacity": 130,
+        "card": "利用可",
+        "catch": "24時まで！酒類の提供も◎ 3H食べ飲み放題3000円~",
+        "charter": "貸切不可 ：30名様～貸切対応可能。お気軽にお問い合わせください。（上野/個室/居酒屋/食べ放題/飲み放題/宴会）",
+        "child": "お子様連れ歓迎 ：完全個室でお子様連れのお客様も安心♪お昼の宴会,ママ会も◎（上野/個室/居酒屋/食べ放題/飲み放題）",
+        "close": "無休",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001278804/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001278804/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "あり",
+        "free_drink": "あり ：3h飲み放題付きコース2,980円～各種ご用意！（上野/個室/居酒屋/食べ放題/飲み放題/宴会/女子会/接待）",
+        "free_food": "あり ：地鶏の炭火焼き鳥食べ放題＆3h飲み放題付⇒2,980円！（上野/個室/居酒屋/食べ放題/飲み放題/宴会/女子会）",
+        "genre": {
+          "catch": "TV取材実績多数！個室で味わう地鶏三昧！",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "なし ：掘りごたつ個室はございません。（上野/個室/居酒屋/食べ放題/飲み放題/宴会/女子会/接待）",
+        "id": "J001278804",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7096311372,
+        "lng": 139.7731047847,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/27/53/P037582753/P037582753_69.jpg",
+        "lunch": "あり",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業している",
+        "mobile_access": "JR上野駅徒歩3分食べ放題+飲み放題2,980円～",
+        "name": "焼き鳥食べ放題 いいとこ鶏 上野店",
+        "name_kana": "こくさんいわいどり　やけいこしつ　たべほうだい　いいとこどり　うえのてん",
+        "non_smoking": "禁煙席なし",
+        "open": "月～日、祝日、祝前日: 11:00～翌0:00 （料理L.O. 23:30 ドリンクL.O. 23:30）",
+        "other_memo": "お昼の宴会,深夜の宴会も承ります。お気軽にお問い合わせください。",
+        "parking": "あり ：お近くのコインパーキングをご利用ください。（上野/個室/居酒屋/食べ放題/飲み放題/宴会/女子会/接待）",
+        "party_capacity": 130,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/27/57/P037582757/P037582757_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/27/57/P037582757/P037582757_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/27/57/P037582757/P037582757_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/27/57/P037582757/P037582757_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/27/57/P037582757/P037582757_58_s.jpg"
+          }
+        },
+        "private_room": "あり ：全席扉付きの完全個室となっておりますので様々なシーンにご対応可能です。（上野/個室/居酒屋）",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "※当店は顧客満足度向上の為抽選で覆面調査の御協力お願いしております！指定されたお客様は会計無料です。",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G004", "name": "和食" },
+        "tatami": "なし ：お座敷個室はございません。（上野/個室/居酒屋/食べ放題/飲み放題/宴会/女子会/接待）",
+        "tv": "あり",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001278804/?vos=nhppalsa000016"
+        },
+        "wedding": "貸切の婚礼などパーティーを承ります。お気軽にご相談下さい。（上野/個室/居酒屋）",
+        "wifi": "あり"
+      },
+      {
+        "access": "上野駅 徒歩3分 JR御徒町駅 徒歩3分赤坂　黒毛家　姉妹店！",
+        "address": "東京都台東区上野６-9-11三真ビル５F",
+        "band": "不可",
+        "barrier_free": "なし ：お手伝い必要な際はお教え願います！",
+        "budget": {
+          "average": "通常3,000円！",
+          "code": "B003",
+          "name": "3001～4000円"
+        },
+        "budget_memo": "宴会コースが受付可能です♪単品飲み放題も実施中♪",
+        "capacity": 50,
+        "card": "利用可",
+        "catch": "【名物】深谷牛の牛カツ デザートプレートサービス",
+        "charter": "貸切不可 ：フロア貸切も各種受付中です♪100名様の宴会も可能です♪",
+        "child": "お子様連れ歓迎 ：お子様連れ歓迎 ：お子様連れも大歓迎！ご家族でもゆったりお食事可能です！",
+        "close": "定休日はございません！毎日元気に営業中！",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001260869/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001260869/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "あり",
+        "free_drink": "あり ：各種飲み放題付きコースをご用意。+500円で店内の飲み物全て飲み放題",
+        "free_food": "なし ：食べ放題はご用意がございません！",
+        "genre": {
+          "catch": "上野　居酒屋　食べ放題　上野駅3分",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "なし",
+        "id": "J001260869",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7102458439,
+        "lng": 139.7751112561,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/25/15/P040672515/P040672515_69.jpg",
+        "lunch": "あり",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業している",
+        "mobile_access": "上野駅 徒歩3分 JR御徒町駅 徒歩3分",
+        "name": "焼き鳥牛カツ食べ飲み放題 黒毛家下町の味 上野店",
+        "name_kana": "くろげわぎゅうせんもんてんくろげやしたまちのあじうえのてん",
+        "non_smoking": "禁煙席なし",
+        "open": "月～金、祝前日: 16:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）土、日、祝日: 14:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）",
+        "other_memo": "ご不明点等、お気軽に店舗へご相談下さい！",
+        "parking": "なし ：お近くのコインパーキングをご利用ください。お酒を飲まれる際はお車でのお越しはご遠慮ください。",
+        "party_capacity": 100,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/25/14/P040672514/P040672514_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/25/14/P040672514/P040672514_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/25/14/P040672514/P040672514_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/25/14/P040672514/P040672514_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/25/14/P040672514/P040672514_58_s.jpg"
+          }
+        },
+        "private_room": "あり ：少人数から団体様まで様々なシーン対応！",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "ご不明点はお気軽にお問い合わせ下さい。",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G004", "name": "和食" },
+        "tatami": "なし",
+        "tv": "なし",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001260869/?vos=nhppalsa000016"
+        },
+        "wedding": "誕生日や記念日、結婚式2次会等の演出もお手伝いします！是非ご相談下さい！",
+        "wifi": "あり"
+      },
+      {
+        "access": "JR 上野駅 徒歩1分",
+        "address": "東京都台東区上野４-5-5-10F",
+        "band": "不可",
+        "barrier_free": "なし ：ご不便なことがございましたらお気軽にお申しつけください。",
+        "budget": {
+          "average": "焼き鳥＆焼きとん含む40品以上の食べ飲み放題コース3100円～♪",
+          "code": "B003",
+          "name": "3001～4000円"
+        },
+        "budget_memo": "お通し代：有り ※コース併用時は除く",
+        "capacity": 180,
+        "card": "利用可",
+        "catch": "焼き鳥・焼きとん食べ放題 個室席は2名様～ご案内",
+        "charter": "貸切可 ：最大180名様までの貸切宴会が可能・お気軽にお問い合わせください。",
+        "child": "お子様連れOK ：お子様連れの場合は事前にご連絡ください。",
+        "close": "年中無休",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001293039/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001293039/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "なし",
+        "free_drink": "あり ：充実したドリンクメニュー！2時間飲み放題1320円～！",
+        "free_food": "あり ：焼き鳥＆焼きトンが食べ放題＆飲み放題付で3100円～！",
+        "genre": {
+          "catch": "上野 居酒屋 焼き鳥 焼きとん 食べ放題",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "なし ：-",
+        "id": "J001293039",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7089462269,
+        "lng": 139.7735744945,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/84/06/P039968406/P039968406_69.jpg",
+        "lunch": "あり",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業している",
+        "mobile_access": "JR 上野駅 徒歩1分",
+        "name": "串焼き専門店 五番地 上野御徒町店",
+        "name_kana": "やきとりやきとんたべほうだいくしやきせんもんてんこしついざかやごばんちうえのおかちまちてん",
+        "non_smoking": "一部禁煙",
+        "open": "月～日、祝日、祝前日: 14:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）",
+        "other_memo": "上野駅 上野 居酒屋 個室 焼き鳥 焼鳥 食べ放題 飲み放題 食べ飲み放題 昼飲み ",
+        "parking": "なし ：近隣のコインパーキングをご利用ください。",
+        "party_capacity": 180,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/41/85/P039994185/P039994185_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/41/85/P039994185/P039994185_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/41/85/P039994185/P039994185_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/41/85/P039994185/P039994185_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/41/85/P039994185/P039994185_58_s.jpg"
+          }
+        },
+        "private_room": "あり ：2名様の少人数から完全個室でご利用いただけます。",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "上野駅 上野 居酒屋 個室 焼き鳥 焼鳥 食べ放題 飲み放題 食べ飲み放題 昼飲み",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野広小路",
+        "sub_genre": { "code": "G004", "name": "和食" },
+        "tatami": "なし ：-",
+        "tv": "なし",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001293039/?vos=nhppalsa000016"
+        },
+        "wedding": "婚式の二次会、パーティー、同窓会、歓送迎会など大人数でのご宴会も大歓迎！",
+        "wifi": "あり"
+      },
+      {
+        "access": "JP上野駅徒歩1分",
+        "address": "東京都台東区上野４-8-9 2F",
+        "band": "不可",
+        "barrier_free": "なし",
+        "budget": {
+          "average": "2500円",
+          "code": "B002",
+          "name": "2001～3000円"
+        },
+        "budget_memo": "GoToEATお食事券は現在ご利用いただけません。",
+        "capacity": 100,
+        "card": "利用可",
+        "catch": "新型コロナ対策徹底実施中 宴会コースは3000円から！",
+        "charter": "貸切可",
+        "child": "お子様連れ歓迎",
+        "close": "なし",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001284078/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001284078/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "なし",
+        "free_drink": "あり ：2時間飲み放題が今なら1280円！",
+        "free_food": "あり ：『全140種食べ飲み放題プラン』全品食べ放題+2時間飲み放題の超お得プラン！3000円→2000円",
+        "genre": {
+          "catch": "エリア最大級の食べ放題が大人気！",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "なし",
+        "id": "J001284078",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7097494795,
+        "lng": 139.7739377647,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/74/86/P040707486/P040707486_69.jpg",
+        "lunch": "なし",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業している",
+        "mobile_access": "JP上野駅徒歩1分",
+        "name": "銀邸 上野店",
+        "name_kana": "ぜんせきこしついざかや　ぎんていうえのてん",
+        "non_smoking": "一部禁煙",
+        "open": "月～日、祝日、祝前日: 12:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）",
+        "other_memo": "",
+        "parking": "なし",
+        "party_capacity": 90,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/74/88/P040707488/P040707488_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/74/88/P040707488/P040707488_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/74/88/P040707488/P040707488_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/74/88/P040707488/P040707488_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/74/88/P040707488/P040707488_58_s.jpg"
+          }
+        },
+        "private_room": "あり",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G004", "name": "和食" },
+        "tatami": "なし",
+        "tv": "なし",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001284078/?vos=nhppalsa000016"
+        },
+        "wedding": "特別コースや貸切の対応可能！気軽にお問い合わせください！",
+        "wifi": "未確認"
+      },
+      {
+        "access": "【上野駅 徒歩2分】肉寿司＆直送鮮魚が豪華食べ放題！【上野　全席個室　居酒屋】",
+        "address": "東京都台東区上野４-8-9 3F",
+        "band": "可",
+        "barrier_free": "あり ：上野　食べ放題　居酒屋　個室　宴会　接待　合コン　女子会　歓送迎会",
+        "budget": {
+          "average": "2980円 《話題の肉寿司・まぐろ食べ放題が人気》",
+          "code": "B002",
+          "name": "2001～3000円"
+        },
+        "budget_memo": "",
+        "capacity": 80,
+        "card": "利用可",
+        "catch": "肉寿司＆まぐろ食べ放題 お洒落な寛ぎ個室空間",
+        "charter": "貸切可 ：貸切可能人数最大80名様 /10名・20名などの大型個室完備！半貸切＆完全貸切も可能です★",
+        "child": "お子様連れOK ：12歳以下は全コース半額となります！予約時にお伝え下さい。全席個室でのご案内となります。",
+        "close": "なし",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003298694/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003298694/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "なし",
+        "free_drink": "あり ：最大3時間以上OK！飲み放題付きご宴会プランは2980円～5480円と、幅広い価格帯でご用意いたしております。",
+        "free_food": "あり ：《話題の肉寿司＆本鮪がついに当店で食べ放題》",
+        "genre": {
+          "catch": "★NEW OPEN★隠れ家個室 肉寿司 食べ放題",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "なし ：上野で女子会/誕生日/個室宴会/送別会/記念日/宴会に最適な個室居酒屋",
+        "id": "J003298694",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7097494795,
+        "lng": 139.7739377647,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/74/01/P040437401/P040437401_69.jpg",
+        "lunch": "あり",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業している",
+        "mobile_access": "【上野駅 徒歩2分】直送鮮魚&肉料理が豪華食べ放題!",
+        "name": "全席完全個室居酒屋　かなで　上野本店",
+        "name_kana": "ぜんせきかんぜんこしついざかやかなでうえのほんてん",
+        "non_smoking": "禁煙席なし",
+        "open": "月～日: 11:00～翌0:00 （ドリンクL.O. 23:30）",
+        "other_memo": "当店は個室多数完備！上野での合コン,女子会,デート記念日などにもおすすめです！",
+        "parking": "なし ：近隣にコインパーキングあり！",
+        "party_capacity": 100,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/65/37/P039906537/P039906537_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/65/37/P039906537/P039906537_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/65/37/P039906537/P039906537_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/65/37/P039906537/P039906537_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/65/37/P039906537/P039906537_58_s.jpg"
+          }
+        },
+        "private_room": "あり ：2名様からの個室はご予約必須！接待、誕生日、デート、合コン、女子会に最適です！",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "上野駅近にNEW OPEN★上野駅2分の海鮮×和牛 全席個室居酒屋",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G004", "name": "和食" },
+        "tatami": "なし ：上野で女子会/誕生日/個室宴会/送別会/記念日/宴会に最適な個室居酒屋",
+        "tv": "なし",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003298694/?vos=nhppalsa000016"
+        },
+        "wedding": "★誕生日/記念日無料特典★メッセージ付きデザートプレートでサプライズプレゼント♪",
+        "wifi": "あり"
+      },
+      {
+        "access": "新橋徒歩3分/都営浅草線新橋駅Ａ１出口より徒歩約3分",
+        "address": "東京都港区新橋３-23-1-7F",
+        "band": "不可",
+        "barrier_free": "なし ：ご入店までお手伝いが必要なお客様は、ご遠慮なくスタッフまでお電話にてお申し付け下さい",
+        "budget": {
+          "average": "3500円",
+          "code": "B003",
+          "name": "3001～4000円"
+        },
+        "budget_memo": "不明点などございましたらお気軽にご連絡ください。",
+        "capacity": 100,
+        "card": "利用可",
+        "catch": "特選和牛が食べ放題！ プライベート贅沢個室多数",
+        "charter": "貸切可 ：予算、人数などお気軽にお問い合わせください。",
+        "child": "お子様連れOK ：お子様向けメニューをご希望のお客様はお気軽にご相談下さい。新橋駅徒歩2分！",
+        "close": "無",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003389636/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003389636/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "あり",
+        "free_drink": "あり ：お得な飲み放題付コースを多数ご用意致しております。",
+        "free_food": "なし ：お得な飲み放題付コースを多数ご用意致しております。",
+        "genre": {
+          "catch": "こだわりの国産焼肉ホルモンカルビ",
+          "code": "G008",
+          "name": "焼肉・ホルモン"
+        },
+        "horigotatsu": "なし ：人気のお席を多数ご用意致しております。",
+        "id": "J003389636",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.6647096739,
+        "lng": 139.7577898355,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/44/99/P040504499/P040504499_69.jpg",
+        "lunch": "なし",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業している",
+        "mobile_access": "新橋駅徒歩3分!新橋で焼肉なら『頂』で決まり!",
+        "name": "本格焼肉 頂 itadaki 新橋店",
+        "name_kana": "かんぜんこしつかんび　げんせんわぎゅう　たべほうだい　ほんかくやきにく　いただき　しんばしてん",
+        "non_smoking": "禁煙席なし",
+        "open": "月～木、土、日、祝日、祝前日: 16:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）金: 16:00～翌5:00 （料理L.O. 翌4:00 ドリンクL.O. 翌4:30）",
+        "other_memo": "英語メニューもございます。英語・中国語対応スタッフも在籍しております！",
+        "parking": "なし ：近隣のコインパーキングをご利用頂きますと便利です。場所などご不明な際はお問合せ下さいませ。",
+        "party_capacity": 100,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/45/02/P040504502/P040504502_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/45/02/P040504502/P040504502_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/45/02/P040504502/P040504502_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/45/02/P040504502/P040504502_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/45/02/P040504502/P040504502_58_s.jpg"
+          }
+        },
+        "private_room": "あり ：2名様からご利用可能な完全個室完備！",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "不明点などございましたらお気軽にご連絡ください。",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "新橋",
+        "sub_genre": { "code": "G008", "name": "焼肉・ホルモン" },
+        "tatami": "なし ：人気のお席を多数ご用意致しております。",
+        "tv": "あり",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003389636/?vos=nhppalsa000016"
+        },
+        "wedding": "和装ウェディングにご利用いただいております。2次会、3次会にもどうぞ。",
+        "wifi": "あり"
+      },
+      {
+        "access": "上野駅徒歩2分",
+        "address": "東京都台東区上野４-9-6　ナガフジビル別館3階",
+        "band": "不可",
+        "barrier_free": "なし",
+        "budget": {
+          "average": "3000円（通常平均） 3500円（宴会平均）",
+          "code": "B003",
+          "name": "3001～4000円"
+        },
+        "budget_memo": "",
+        "capacity": 100,
+        "card": "利用可",
+        "catch": "全席完全個室完備！ 宴会コースは3000円から！",
+        "charter": "貸切可 ：150名様までご利用可能！",
+        "child": "お子様連れ歓迎",
+        "close": "【年中無休で営業中】団体様用個室やフロア貸切のご予約受付中！",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001294815/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001294815/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "あり",
+        "free_drink": "あり",
+        "free_food": "なし",
+        "genre": {
+          "catch": "全席個室 焼き鳥 野菜巻き串 鍋 九州料理",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "なし",
+        "id": "J001294815",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7100822205,
+        "lng": 139.7739627492,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/60/68/P038776068/P038776068_69.jpg",
+        "lunch": "なし",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業している",
+        "mobile_access": "上野駅徒歩2分",
+        "name": "串ばってん 上野店",
+        "name_kana": "くしやきとやさいまきときゅうしゅうりょうりのこしついざかや　くしばってん　うえのてん",
+        "non_smoking": "一部禁煙",
+        "open": "月～日、祝日、祝前日: 12:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）",
+        "other_memo": "",
+        "parking": "なし",
+        "party_capacity": 100,
+        "pet": "可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/60/71/P038776071/P038776071_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/60/71/P038776071/P038776071_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/60/71/P038776071/P038776071_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/60/71/P038776071/P038776071_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/60/71/P038776071/P038776071_58_s.jpg"
+          }
+        },
+        "private_room": "あり",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G004", "name": "和食" },
+        "tatami": "なし",
+        "tv": "なし",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001294815/?vos=nhppalsa000016"
+        },
+        "wedding": "団体様用のお席も完備しておりますので、二次会に最適◎貸切宴会もご予約受付中！",
+        "wifi": "あり"
+      },
+      {
+        "access": "JR上野駅浅草口から出てすぐ！徒歩０分のニューオープン浜焼き海鮮寿司居酒屋♪",
+        "address": "東京都台東区上野７-2-1南大門上野駅前ビル地下1階",
+        "band": "不可",
+        "barrier_free": "なし ：スタッフがお手伝いするので遠慮なくお申し付けください。",
+        "budget": {
+          "average": "3000円　シーンに合わせた最適な宴会コースをご案内♪",
+          "code": "B003",
+          "name": "3001～4000円"
+        },
+        "budget_memo": "",
+        "capacity": 85,
+        "card": "利用可",
+        "catch": "◆旬の素材を使った和食 ◆落ち着いた大人の個室",
+        "charter": "貸切不可 ：【最大85名の貸切ＯＫ】人数様やご予算、コースのご相談などお気軽にお問い合わせ下さい。",
+        "child": "お子様連れ歓迎 ：【家族でゆったり.....】お子様連れの方にも最適な広々個室完備！ママ会や上野でのお出かけ帰りに◎",
+        "close": "無休　ご宴会に役立つお得なクーポンを多数ご用意◎",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001227235/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001227235/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "なし",
+        "free_drink": "あり ：【上野駅×完全居酒屋】飲み放題付コースは2980円からご用意！最大3時間飲み放題付コースもあり！",
+        "free_food": "あり ：★1日3組限定★寿司食べ放題3280円!!",
+        "genre": {
+          "catch": "上野駅 完全個室 寿司 食べ飲み放題 誕生日",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "なし ：【飲み放題付きコース最大3H2980円～】足をのばしてゆったりお寛ぎ頂ける掘りごたつ個室も完備！",
+        "id": "J001227235",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7124712129,
+        "lng": 139.7775037411,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/49/01/P034164901/P034164901_69.jpg",
+        "lunch": "なし",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業している",
+        "mobile_access": "徒歩0分!完全個室でご宴会最大3時間2980円～",
+        "name": "居酒屋 魚寅 うおとら 上野駅前店",
+        "name_kana": "ほっかいどうかいせんあんどすしたべほうだい　こしつ　いざかや　うおとら　うえのえきまえてん",
+        "non_smoking": "禁煙席なし",
+        "open": "月～日、祝日、祝前日: 11:30～翌1:00 （料理L.O. 翌0:00 ドリンクL.O. 翌0:30）",
+        "other_memo": "お得な飲み放題付コースは2980円～！上野駅でのご宴会・接待・飲み会・女子会に◎",
+        "parking": "なし ：近隣のコインパーキングをご利用くださいませ。",
+        "party_capacity": 85,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/76/44/P035037644/P035037644_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/76/44/P035037644/P035037644_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/76/44/P035037644/P035037644_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/76/44/P035037644/P035037644_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/76/44/P035037644/P035037644_58_s.jpg"
+          }
+        },
+        "private_room": "あり ：【記念日、誕生日サービスあり】2名様～ご利用頂けるゆったりとした空間をご提供。デートや飲み会に◎",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "【結婚式の2次会、3次会に】40名～最大85名様での貸切宴会も承ります！落ち着いた空間でのご宴会に◎",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G004", "name": "和食" },
+        "tatami": "なし",
+        "tv": "なし",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001227235/?vos=nhppalsa000016"
+        },
+        "wedding": "上野での歓送別会、会社宴会などお気軽にお問い合わせ下さい",
+        "wifi": "あり"
+      },
+      {
+        "access": "東京メトロ上野駅Ｃ８出口より徒歩約2分",
+        "address": "東京都台東区上野６-13-2　渡辺上野ビル3F-A",
+        "band": "不可",
+        "barrier_free": "なし ：お手伝いが必要な際はお気軽にご連絡ください。",
+        "budget": {
+          "average": "３５００円",
+          "code": "B003",
+          "name": "3001～4000円"
+        },
+        "budget_memo": "",
+        "capacity": 120,
+        "card": "利用可",
+        "catch": "全品食べ飲み放題2200円！ 地鶏をはじめ食材を真剣に",
+        "charter": "貸切不可 ：お気軽にお問い合わせくださいませ！",
+        "child": "お子様連れOK ：ママ会にもお使いいただけます。",
+        "close": "不定休日あり",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003298940/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003298940/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "なし",
+        "free_drink": "あり ：単品飲み放題1500円。もちろんコースも飲み放題付です。",
+        "free_food": "あり",
+        "genre": {
+          "catch": "旬の和食を味わう居酒屋",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "なし ：掘りごたつ席ございます。女子会やママ会に好評です。",
+        "id": "J003298940",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.710740234,
+        "lng": 139.7751617875,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/34/80/P039353480/P039353480_69.jpg",
+        "lunch": "あり",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業している",
+        "mobile_access": "東京ﾒﾄﾛ上野駅C8出口より徒歩約2分",
+        "name": "こたつ付き完全個室　2000円食べ飲み放題　旬蔵上野本店",
+        "name_kana": "こたつつきかんぜんこしつ　にせんえんたべのみほうだい　しゅんぞううえのほんてん",
+        "non_smoking": "禁煙席なし",
+        "open": "月～日、祝日、祝前日: 12:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）",
+        "other_memo": "ご不明点がございましたらお気軽にお問合せください♪",
+        "parking": "なし ：近隣のパーキングをご利用ください。",
+        "party_capacity": 150,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/34/79/P039353479/P039353479_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/34/79/P039353479/P039353479_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/34/79/P039353479/P039353479_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/34/79/P039353479/P039353479_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/34/79/P039353479/P039353479_58_s.jpg"
+          }
+        },
+        "private_room": "なし ：個室席完備♪半個室・区切られたスペースのお席がございます。",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "コースはゆったり2時間コース～ご用意しております。",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G004", "name": "和食" },
+        "tatami": "なし ：お座敷ご用意ございます。宴会に大変人気なお部屋となっております",
+        "tv": "あり",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003298940/?vos=nhppalsa000016"
+        },
+        "wedding": "お気軽にご相談下さい。",
+        "wifi": "あり"
+      },
+      {
+        "access": "【上野駅徒歩2分】上野で和牛を堪能するなら牛若丸！【上野/焼肉/食べ放題/飲み放題/デート/女子会】",
+        "address": "東京都台東区上野６-14-6 4F",
+        "band": "不可",
+        "barrier_free": "なし ：お手伝いが必要な際はお気軽にご連絡ください。",
+        "budget": {
+          "average": "2500円／24時までしっかり営業！感染症対策に留意しております。",
+          "code": "B002",
+          "name": "2001～3000円"
+        },
+        "budget_memo": "",
+        "capacity": 120,
+        "card": "利用可",
+        "catch": "和牛食べ放題3000円～♪ 飲み放題付き焼肉宴会☆",
+        "charter": "貸切不可 ：お気軽にお問い合わせくださいませ！(上野/焼肉/食べ放題/飲み放題/個室)",
+        "child": "お子様連れOK ：ママ会にもお使いいただけます。",
+        "close": "毎日24時まで営業しております。",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001296251/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001296251/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "なし",
+        "free_drink": "あり ：単品飲み放題1500円。もちろんコースも飲み放題付です。",
+        "free_food": "あり",
+        "genre": {
+          "catch": "国産和牛食べ放題3000円から！上タンも◎",
+          "code": "G008",
+          "name": "焼肉・ホルモン"
+        },
+        "horigotatsu": "なし ：掘りごたつ席ございます。女子会やママ会に好評です。(上野/焼肉/食べ放題/飲み放題/個室)",
+        "id": "J001296251",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7112335185,
+        "lng": 139.7754134129,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/47/96/P041164796/P041164796_69.jpg",
+        "lunch": "あり",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業していない",
+        "mobile_access": "上野駅徒歩2分 肉問屋の食べ放題2980円~♪",
+        "name": "肉問屋直営　黒毛和牛全品食べ飲み放題　牛若丸　上野店",
+        "name_kana": "にくとんやちょくえい　くろげわぎゅうぜんぴんたべほうだい　うしわかまる　うえのてん",
+        "non_smoking": "禁煙席なし",
+        "open": "月～日、祝日、祝前日: 11:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:00）",
+        "other_memo": "ご不明点がございましたらお気軽にお問合せください♪",
+        "parking": "なし ：近隣のパーキングをご利用ください。",
+        "party_capacity": 150,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/48/01/P041164801/P041164801_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/48/01/P041164801/P041164801_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/48/01/P041164801/P041164801_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/48/01/P041164801/P041164801_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/48/01/P041164801/P041164801_58_s.jpg"
+          }
+        },
+        "private_room": "なし ：個室席完備♪半個室・区切られたスペースのお席がございます(上野/焼肉/食べ放題/飲み放題/個室)",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "コースはゆったり2時間コース～ご用意しております。",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G008", "name": "焼肉・ホルモン" },
+        "tatami": "なし ：お座敷ご用意ございます。宴会に大変人気なお部屋となっております(上野/焼肉/食べ放題/飲み放題/個室)",
+        "tv": "なし",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001296251/?vos=nhppalsa000016"
+        },
+        "wedding": "お気軽にご相談下さい。",
+        "wifi": "あり"
+      },
+      {
+        "access": "上野駅 徒歩3分　JR御徒町駅　徒歩3分　　【各路線からアクセス良好 × 集合&待ち合わせも容易】",
+        "address": "東京都台東区上野６-8-5",
+        "band": "不可",
+        "barrier_free": "あり ：お手伝い必要な際はお教え願います！",
+        "budget": {
+          "average": "焼き鳥１００円のTVでも今話題の店♪全品『大山地鶏』を使用！",
+          "code": "B002",
+          "name": "2001～3000円"
+        },
+        "budget_memo": "24時間宴会コースが受付可能です♪単品飲み放題も実施中♪",
+        "capacity": 200,
+        "card": "利用可",
+        "catch": "◆自慢の地鶏料理 ◆店主のこだわり地酒",
+        "charter": "貸切可 ：フロア貸切も各種受付中です♪100名様の宴会も可能です♪",
+        "child": "お子様連れ不可",
+        "close": "定休日はございません！毎日24時間営業中♪※日曜日の24時～月曜日の10時まではCLOSEとなります。",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003389376/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003389376/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "あり",
+        "free_drink": "あり ：各種飲み放題付きコースをご用意。+500円で店内の飲み物全て飲み放題",
+        "free_food": "なし ：食べ放題はご用意がございません！",
+        "genre": {
+          "catch": "上野　焼き鳥アクセスNo.1  上野駅３分　",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "あり ：全席掘りごたつ式の完全個室でございます。",
+        "id": "J003389376",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7092487471,
+        "lng": 139.7756018101,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/94/45/P029509445/P029509445_69.jpg",
+        "lunch": "あり",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業している",
+        "mobile_access": "JR上野駅 徒歩3分/JR御徒町駅 徒歩5分",
+        "name": "鳥道酒場 上野支店",
+        "name_kana": "とりみちさかば　うえのしてん",
+        "non_smoking": "禁煙席なし",
+        "open": "月～日、祝日、祝前日: 11:00～翌5:00 （料理L.O. 翌4:00 ドリンクL.O. 翌4:00）",
+        "other_memo": "ご不明点等、お気軽に店舗へご相談下さい！",
+        "parking": "なし ：お近くのコインパーキングをご利用ください。お酒を飲まれる際はお車でのお越しはご遠慮ください。",
+        "party_capacity": 200,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/08/92/P039000892/P039000892_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/08/92/P039000892/P039000892_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/08/92/P039000892/P039000892_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/08/92/P039000892/P039000892_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/08/92/P039000892/P039000892_58_s.jpg"
+          }
+        },
+        "private_room": "あり ：全席掘りごたつ式の個室です。少人数から団体様まで様々なシーン対応！",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "ご不明点はお気軽にお問い合わせ下さい。",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G003", "name": "創作料理" },
+        "tatami": "なし ：お座敷フロアのご用意はございませんが、お席のレイアウト等、お気軽にご相談下さい！",
+        "tv": "あり",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003389376/?vos=nhppalsa000016"
+        },
+        "wedding": "誕生日や記念日、結婚式2次会等の演出もお手伝いします！是非ご相談下さい！",
+        "wifi": "あり"
+      },
+      {
+        "access": "上野駅 徒歩3分 JR御徒町駅 徒歩3分【各路線からアクセス良好 × 集合&待ち合わせも容易】",
+        "address": "東京都台東区上野６-13-5　ジャングルビル５F",
+        "band": "不可",
+        "barrier_free": "あり ：お手伝い必要な際はお教え願います！",
+        "budget": {
+          "average": "飲み放題コースご用意御座います。人気の単品飲み放題も♪",
+          "code": "B003",
+          "name": "3001～4000円"
+        },
+        "budget_memo": "24時間宴会コースが受付可能です♪単品飲み放題も実施中♪",
+        "capacity": 200,
+        "card": "利用可",
+        "catch": "【極上の和牛タン料理】 【誕生日特典♪】",
+        "charter": "貸切不可 ：フロア貸切も各種受付中です♪100名様の宴会も可能です♪",
+        "child": "お子様連れ不可 ：お子様連れ歓迎 ：お子様連れも大歓迎！ご家族でもゆったりお食事可能です！",
+        "close": "定休日はございません！毎日元気に営業中！",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003324966/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003324966/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "あり",
+        "free_drink": "あり ：各種飲み放題付きコースをご用意。+500円で店内の飲み物全て飲み放題",
+        "free_food": "なし ：食べ放題はご用意がございません！",
+        "genre": {
+          "catch": "GO TO EAT★和牛タン専門のお店★",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "あり ：全席掘りごたつ式の完全個室でございます。",
+        "id": "J003324966",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7105746963,
+        "lng": 139.7751320745,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/91/61/P036709161/P036709161_69.jpg",
+        "lunch": "あり",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業している",
+        "mobile_access": "上野駅 徒歩3分 JR御徒町駅 徒歩3分",
+        "name": "牛タン専門店 タン治郎 上野店",
+        "name_kana": "ぎゅうたんせんもんてんたんじろう　うえのてん",
+        "non_smoking": "禁煙席なし",
+        "open": "月～木: 17:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）金、祝前日: 17:00～翌5:00 （料理L.O. 翌4:00 ドリンクL.O. 翌4:30）土: 12:00～翌5:00 （料理L.O. 翌4:00 ドリンクL.O. 翌4:30）日、祝日: 12:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）",
+        "other_memo": "ご不明点等、お気軽に店舗へご相談下さい！",
+        "parking": "なし ：お近くのコインパーキングをご利用ください。お酒を飲まれる際はお車でのお越しはご遠慮ください。",
+        "party_capacity": 200,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/07/76/P039000776/P039000776_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/07/76/P039000776/P039000776_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/07/76/P039000776/P039000776_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/07/76/P039000776/P039000776_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/07/76/P039000776/P039000776_58_s.jpg"
+          }
+        },
+        "private_room": "あり ：全席掘りごたつ式の個室です。少人数から団体様まで様々なシーン対応！",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "ご不明点はお気軽にお問い合わせ下さい。",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G001", "name": "居酒屋" },
+        "tatami": "なし ：お座敷フロアのご用意はございます。",
+        "tv": "あり",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003324966/?vos=nhppalsa000016"
+        },
+        "wedding": "誕生日や記念日、結婚式2次会等の演出もお手伝いします！是非ご相談下さい！",
+        "wifi": "あり"
+      },
+      {
+        "access": "JR上野駅徒歩1分　3時間食べ飲み放題あり♪完全個室あり！",
+        "address": "東京都台東区上野６-13-6　武文ビル2F",
+        "band": "不可",
+        "barrier_free": "なし ：お手伝いが必要な際はお気軽にご連絡ください。",
+        "budget": {
+          "average": "３５００円／プレミアム食事券使えます！",
+          "code": "B003",
+          "name": "3001～4000円"
+        },
+        "budget_memo": "",
+        "capacity": 120,
+        "card": "利用可",
+        "catch": "【NEWOPEN】お得クーポン! 扉付き完全個室でご案内！",
+        "charter": "貸切不可 ：お気軽にお問い合わせくださいませ！",
+        "child": "お子様連れOK ：ママ会にもお使いいただけます。",
+        "close": "不定休日あり",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003324998/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003324998/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "なし",
+        "free_drink": "あり ：単品飲み放題1500円。もちろんコースも飲み放題付です。",
+        "free_food": "あり",
+        "genre": {
+          "catch": "牛タンと肉寿司が旨い完全個室居酒屋",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "なし ：掘りごたつ席ございます。女子会やママ会に好評です。",
+        "id": "J003324998",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.710740234,
+        "lng": 139.7751617875,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/70/33/P041017033/P041017033_69.jpg",
+        "lunch": "あり",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業していない",
+        "mobile_access": "JR上野駅徒歩1分  ﾀﾝしゃぶや肉寿司が食べ放題♪",
+        "name": "和牛もつ鍋と焼鳥食べ放題 ひなた 上野店",
+        "name_kana": "わぎゅうもつなべとやきとりたべほうだい　かんぜんこしついざかや　ひなた　うえのてん",
+        "non_smoking": "禁煙席なし",
+        "open": "月～日、祝日、祝前日: 15:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:00）",
+        "other_memo": "ご不明点がございましたらお気軽にお問合せください♪",
+        "parking": "なし ：近隣のパーキングをご利用ください。",
+        "party_capacity": 150,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/70/34/P041017034/P041017034_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/70/34/P041017034/P041017034_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/70/34/P041017034/P041017034_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/70/34/P041017034/P041017034_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/70/34/P041017034/P041017034_58_s.jpg"
+          }
+        },
+        "private_room": "なし ：個室席完備♪半個室・区切られたスペースのお席がございます。",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "コースはゆったり2時間コース～ご用意しております。",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G001", "name": "居酒屋" },
+        "tatami": "なし ：お座敷ご用意ございます。宴会に大変人気なお部屋となっております",
+        "tv": "あり",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003324998/?vos=nhppalsa000016"
+        },
+        "wedding": "お気軽にご相談下さい。",
+        "wifi": "未確認"
+      },
+      {
+        "access": "東京メトロ上野駅５ｂ出口より徒歩約2分",
+        "address": "東京都台東区上野６-13-6　武文ビル2F",
+        "band": "不可",
+        "barrier_free": "なし ：お手伝いが必要な際はお気軽にご連絡ください。",
+        "budget": {
+          "average": "３５００円",
+          "code": "B003",
+          "name": "3001～4000円"
+        },
+        "budget_memo": "",
+        "capacity": 120,
+        "card": "利用可",
+        "catch": "3H食べ飲み放題3300円！ 牛タンor豚しゃぶしゃぶ♪",
+        "charter": "貸切可 ：お気軽にお問い合わせくださいませ！",
+        "child": "お子様連れOK ：ママ会にもお使いいただけます。",
+        "close": "不定休日あり",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001293065/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001293065/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "なし",
+        "free_drink": "あり ：単品飲み放題1500円。もちろんコースも飲み放題付です。",
+        "free_food": "あり",
+        "genre": {
+          "catch": "国産牛タンとしゃぶしゃぶ食べ放題",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "なし ：掘りごたつ席ございます。女子会やママ会に好評です。",
+        "id": "J001293065",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.710740234,
+        "lng": 139.7751617875,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/30/38/P041083038/P041083038_69.jpg",
+        "lunch": "あり",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業している",
+        "mobile_access": "東京ﾒﾄﾛ上野駅5b出口より徒歩約2分",
+        "name": "完全個室居酒屋 はなび 上野店",
+        "name_kana": "こくさんぎゅうたん　あぶりにくずしたべほうだい　かんぜんこしついざかや　はなび　うえのてん",
+        "non_smoking": "禁煙席なし",
+        "open": "月～日、祝日、祝前日: 12:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）",
+        "other_memo": "ご不明点がございましたらお気軽にお問合せください♪",
+        "parking": "なし ：近隣のパーキングをご利用ください。",
+        "party_capacity": 150,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/30/41/P041083041/P041083041_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/30/41/P041083041/P041083041_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/30/41/P041083041/P041083041_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/30/41/P041083041/P041083041_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/30/41/P041083041/P041083041_58_s.jpg"
+          }
+        },
+        "private_room": "あり ：個室席完備♪半個室・区切られたスペースのお席がございます。",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "コースはゆったり2時間コース～ご用意しております。",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G004", "name": "和食" },
+        "tatami": "なし ：お座敷ご用意ございます。宴会に大変人気なお部屋となっております",
+        "tv": "あり",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001293065/?vos=nhppalsa000016"
+        },
+        "wedding": "お気軽にご相談下さい。",
+        "wifi": "あり"
+      },
+      {
+        "access": "上野駅徒歩3分（上野で焼き鳥&肉寿司食べ放題！）",
+        "address": "東京都台東区上野６－９－１１ 4階",
+        "band": "不可",
+        "barrier_free": "なし ：ご要望ありましたら、ご相談ください。",
+        "budget": {
+          "average": "3000円(宴会)",
+          "code": "B002",
+          "name": "2001～3000円"
+        },
+        "budget_memo": "ご不明点等、お気軽に店舗へご相談ください。",
+        "capacity": 46,
+        "card": "利用可",
+        "catch": "肉寿司食べ放題♪ 最安値飲み放題2H980円♪",
+        "charter": "貸切可 ：ご要望ありましたら、ご相談ください。",
+        "child": "お子様連れ歓迎 ：お子様連れ歓迎！",
+        "close": "年中無休",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001233660/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001233660/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "あり",
+        "free_drink": "あり ：【飲み放題】付コースをご用意してます。",
+        "free_food": "なし ：【飲み放題】付コースをご用意してます。",
+        "genre": {
+          "catch": "12:00~24:00まで営業しております！",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "なし ：他のお席をご利用ください。",
+        "id": "J001233660",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7102458439,
+        "lng": 139.7751112561,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/77/67/P027857767/P027857767_69.jpg",
+        "lunch": "あり",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業している",
+        "mobile_access": "上野駅徒歩3分(上野で焼き鳥&肉寿司食べ放題!)",
+        "name": "個室バル 鳥物語 上野店",
+        "name_kana": "たべほうだいやきとりこしつばる　とりものがたりうえのてん",
+        "non_smoking": "一部禁煙",
+        "open": "月～日、祝日、祝前日: 12:00～翌0:00 （料理L.O. 23:30 ドリンクL.O. 23:30）",
+        "other_memo": "ご不明点等、お気軽に店舗へご相談ください。",
+        "parking": "なし ：近隣にコインパーキングがございます。",
+        "party_capacity": 80,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/77/71/P027857771/P027857771_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/77/71/P027857771/P027857771_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/77/71/P027857771/P027857771_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/77/71/P027857771/P027857771_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/77/71/P027857771/P027857771_58_s.jpg"
+          }
+        },
+        "private_room": "あり ：ご要望ありましたら、ご相談ください。",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "ご不明点等、お気軽に店舗へご相談ください。",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G002", "name": "ダイニングバー・バル" },
+        "tatami": "なし ：他のお席をご利用ください。",
+        "tv": "なし",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001233660/?vos=nhppalsa000016"
+        },
+        "wedding": "ご要望ありましたら、ご相談ください。",
+        "wifi": "あり"
+      },
+      {
+        "access": "上野御徒町駅 徒歩2分/上野広小路駅 徒歩2分",
+        "address": "東京都台東区上野４-3-8 三浦2F",
+        "band": "不可",
+        "barrier_free": "なし ：お気軽にご相談ください。",
+        "budget": {
+          "average": "シュラスコBBQ食べ放題！飲み放題付コース2500円～",
+          "code": "B002",
+          "name": "2001～3000円"
+        },
+        "budget_memo": "シュラスコBBQ食べ放題！飲み放題付コース2500円～",
+        "capacity": 120,
+        "card": "利用可",
+        "catch": "レトロでアットホーム空間 誕生日や記念日に♪",
+        "charter": "貸切可 ：上野アメ横新名所！シュラスコBBQ食べ放題！",
+        "child": "お子様連れ歓迎 ：食べ放題なので食べ応えバッチリ！各種ご宴会にぴったりです♪",
+        "close": "こだわりのシュラスコBBQは食べ応え◎自慢のお肉を一本一本丁寧に焼き上げております。",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003411031/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003411031/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "なし",
+        "free_drink": "あり ：食べ飲み放題コースが充実！各種ご宴会にご利用ください♪",
+        "free_food": "あり ：当店一押しのBBQコース！圧倒的お値段で食べ放題でご提供！",
+        "genre": {
+          "catch": "アメ横新名所！シュラスコBBQ食べ飲み放題",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "なし ：上野アメ横新名所！シュラスコBBQ食べ放題！",
+        "id": "J003411031",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7084793413,
+        "lng": 139.7738094934,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/71/81/P041137181/P041137181_69.jpg",
+        "lunch": "あり",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業している",
+        "mobile_access": "上野御徒町駅 徒歩2分/上野広小路駅 徒歩2分",
+        "name": "肉と酒 アメ横酒場 The Meat House 上野アメ横店",
+        "name_kana": "にくとさけ　あめよこさかば　ざ　みーとはうす　うえのあめよこてん",
+        "non_smoking": "禁煙席なし",
+        "open": "月～日、祝日、祝前日: 12:00～翌0:00",
+        "other_memo": "上野アメ横新名所！シュラスコBBQ食べ放題！",
+        "parking": "なし ：お近くのパーキングをご利用ください。",
+        "party_capacity": 120,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/71/83/P041137183/P041137183_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/71/83/P041137183/P041137183_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/71/83/P041137183/P041137183_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/71/83/P041137183/P041137183_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/71/83/P041137183/P041137183_58_s.jpg"
+          }
+        },
+        "private_room": "あり ：上野アメ横新名所！シュラスコBBQ食べ放題！",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "上野アメ横新名所！シュラスコBBQ食べ放題！",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "御徒町",
+        "sub_genre": { "code": "G002", "name": "ダイニングバー・バル" },
+        "tatami": "なし ：上野アメ横新名所！シュラスコBBQ食べ放題！",
+        "tv": "あり",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003411031/?vos=nhppalsa000016"
+        },
+        "wedding": "上野アメ横新名所！シュラスコBBQ食べ放題！",
+        "wifi": "未確認"
+      },
+      {
+        "access": "上野駅 徒歩3分 JR御徒町駅 徒歩3分 【各路線からアクセス良好 × 集合&待ち合わせも容易】",
+        "address": "東京都台東区上野６-9-23 1F",
+        "band": "不可",
+        "barrier_free": "あり ：お手伝い必要な際はお教え願います！",
+        "budget": {
+          "average": "ワイワイ楽しむ下町酒場！鶏餃子＆炭火串焼きをビールと共に♪",
+          "code": "B002",
+          "name": "2001～3000円"
+        },
+        "budget_memo": "当日の宴会コースの受付可能です♪単品飲み放題も実施中♪",
+        "capacity": 70,
+        "card": "利用可",
+        "catch": "◆自慢の地鶏料理 ◆店主のこだわり地酒",
+        "charter": "貸切不可 ：フロア貸切も各種受付中です♪100名様の宴会も可能です♪",
+        "child": "お子様連れ不可",
+        "close": "定休日はございません！毎日営業中♪",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003433600/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003433600/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "あり",
+        "free_drink": "あり ：各種飲み放題付きコースをご用意。+980円で店内の飲み物全て飲み放題",
+        "free_food": "なし ：食べ放題はご用意がございません！",
+        "genre": {
+          "catch": "上野　焼き鳥アクセスNo.1  上野駅３分　",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "なし ：全席掘りごたつ式の完全個室でございます。",
+        "id": "J003433600",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.709200413,
+        "lng": 139.7753718316,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/68/16/P037116816/P037116816_69.jpg",
+        "lunch": "なし",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業している",
+        "mobile_access": "JR上野駅 徒歩3分/JR御徒町駅 徒歩5分",
+        "name": "個室と炭火焼鳥 鳥どり酒場 上野2号店",
+        "name_kana": "こしつとすみびやきとり　とりどりさかば　うえのにごうてん",
+        "non_smoking": "禁煙席なし",
+        "open": "月～金: 15:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）土、日、祝日: 12:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）祝前日: 15:00～翌5:00 （料理L.O. 23:00 ドリンクL.O. 23:30）",
+        "other_memo": "ご不明点等、お気軽に店舗へご相談下さい！",
+        "parking": "なし ：お近くのコインパーキングをご利用ください。お酒を飲まれる際はお車でのお越しはご遠慮ください。",
+        "party_capacity": 200,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/68/19/P037116819/P037116819_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/68/19/P037116819/P037116819_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/68/19/P037116819/P037116819_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/68/19/P037116819/P037116819_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/68/19/P037116819/P037116819_58_s.jpg"
+          }
+        },
+        "private_room": "なし ：全席掘りごたつ式の個室です。少人数から団体様まで様々なシーン対応！",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "20歳以下の方はご利用いただけません。",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G004", "name": "和食" },
+        "tatami": "なし ：お座敷フロアのご用意はございませんが、お席のレイアウト等、お気軽にご相談下さい！",
+        "tv": "あり",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003433600/?vos=nhppalsa000016"
+        },
+        "wedding": "誕生日や記念日、結婚式2次会等の演出もお手伝いします！是非ご相談下さい！",
+        "wifi": "あり"
+      },
+      {
+        "access": "JR山手線 ／ 上野駅(出入口5b) 徒歩1分（66m）京成本線 ／ 京成上野駅(正面口) 徒歩2分（160m）",
+        "address": "東京都台東区上野６丁目13-9 新都乃田ビル6階 ",
+        "band": "不可",
+        "barrier_free": "なし ：バリアフリーなどはございません。ご配慮が必要なお客様が致しましたらスタッフがお手伝いさせて頂きます。",
+        "budget": {
+          "average": "ランチ1000円前後/ディナー2500円前後でご利用が可能です。",
+          "code": "B003",
+          "name": "3001～4000円"
+        },
+        "budget_memo": "個室の場合、個室料金550円/人 頂戴頂いております。",
+        "capacity": 120,
+        "card": "利用可",
+        "catch": "和牛ざんまい＋2h飲み放題 季節刺身＋２時間飲み放題",
+        "charter": "貸切不可 ：貸切予約可能です。プロジェクターモニター類ございますのでお気軽にお問い合わせ下さい。",
+        "child": "お子様連れ歓迎 ：お子様連れ大歓迎です。個室などのご希望がございましたらご連絡下さいませ。",
+        "close": "年中無休",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003298687/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003298687/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "なし",
+        "free_drink": "あり ：単品飲み放題もご利用できます。お料理は当日お好きな物をご注文下さいませ。",
+        "free_food": "あり ：肉盛り食べ放題や飲み放題付のコースが多数ございます!!",
+        "genre": {
+          "catch": "全席完全個室で味わう肉寿司食べ放題",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "なし ：掘りごたつはの完全個室あり。少人数様やチョイ飲みの方には個室利用可能です",
+        "id": "J003298687",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7108721719,
+        "lng": 139.7754714781,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/46/54/P040584654/P040584654_69.jpg",
+        "lunch": "あり",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業している",
+        "mobile_access": "東京ﾒﾄﾛ上野駅5b出口より徒歩約1分",
+        "name": "食べ放題　飲み放題　個室居酒屋　京　上野アメ横店",
+        "name_kana": "たべほうだいのみほうだい　こしついざかや　みやこ　うえのあめよこてん",
+        "non_smoking": "一部禁煙",
+        "open": "月～日、祝日、祝前日: 11:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）",
+        "other_memo": "",
+        "parking": "なし ：専属の駐車場はございません。お近くのパーキングなどをご利用下さいませ。",
+        "party_capacity": 120,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/47/69/P040584769/P040584769_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/47/69/P040584769/P040584769_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/47/69/P040584769/P040584769_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/47/69/P040584769/P040584769_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/47/69/P040584769/P040584769_58_s.jpg"
+          }
+        },
+        "private_room": "あり ：個室、半個室、完全個室を完備しております。禁煙席や喫煙席などございますのでご利用時にお問合せ下さい",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "★予約受付時間10:30～24:00★※お昼の宴会、営業時間外の宴会もお気軽にお問合せ下さい",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G004", "name": "和食" },
+        "tatami": "なし ：座敷席は設けておりません。ゆっくり飲み会方には個室席のご利用をオススメさせて頂いております",
+        "tv": "なし",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003298687/?vos=nhppalsa000016"
+        },
+        "wedding": "貸切宴会 ・ 120名まで。ご予算 ・ ご人数 ・ お時間 etc・・お気軽にご相談下さい。",
+        "wifi": "あり"
+      },
+      {
+        "access": "JR上野駅徒歩1分",
+        "address": "東京都台東区上野７-３-２　TSDビル3階",
+        "band": "不可",
+        "barrier_free": "なし",
+        "budget": {
+          "average": "3000円（通常平均） 3500円（宴会平均）",
+          "code": "B002",
+          "name": "2001～3000円"
+        },
+        "budget_memo": "",
+        "capacity": 150,
+        "card": "利用可",
+        "catch": "全席完全個室完備！ 宴会コースは3000円から！",
+        "charter": "貸切可 ：150名様までご利用可能！",
+        "child": "お子様連れ歓迎",
+        "close": "【年中無休で営業中】団体様用個室やフロア貸切のご予約受付中！貸切最大150名様までご利用可能♪会社宴会,同窓会に◎",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001262514/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001262514/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "あり",
+        "free_drink": "あり ：期間限定で2時間飲み放題1円実施！",
+        "free_food": "あり ：3000円（博多もつ鍋、しゃぶしゃぶ、串焼きの食べ放題プランをご用意）",
+        "genre": {
+          "catch": "全席個室 完全個室 九州料理 馬刺し もつ鍋",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "なし ：最大50名様、貸切は150名様OK！",
+        "id": "J001262514",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7124226126,
+        "lng": 139.7777020595,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/32/80/P039633280/P039633280_69.jpg",
+        "lunch": "なし",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業している",
+        "mobile_access": "JR上野駅徒歩1分",
+        "name": "九州蔵 くすぞう 上野店",
+        "name_kana": "うまいきゅうしゅうりょうりとぜんせきこしついざかや　くすぞう　うえのてん",
+        "non_smoking": "一部禁煙",
+        "open": "月～日、祝日、祝前日: 12:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）",
+        "other_memo": "",
+        "parking": "なし ：駅近くのコインパーキングがございます。",
+        "party_capacity": 150,
+        "pet": "可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/32/83/P039633283/P039633283_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/32/83/P039633283/P039633283_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/32/83/P039633283/P039633283_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/32/83/P039633283/P039633283_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/32/83/P039633283/P039633283_58_s.jpg"
+          }
+        },
+        "private_room": "あり ：全席個室完備！2名様から最大50名様まで！",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G004", "name": "和食" },
+        "tatami": "なし ：最大50名様、貸切は150名様OK！",
+        "tv": "なし",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001262514/?vos=nhppalsa000016"
+        },
+        "wedding": "団体様用のお席も完備しておりますので、二次会に最適◎貸切宴会もご予約受付中！",
+        "wifi": "あり"
+      },
+      {
+        "access": "東京メトロ日比谷線仲御徒町駅Ａ４出口より徒歩約2分/東京メトロ銀座線上野広小路駅Ａ３出口より徒歩約2分",
+        "address": "東京都文京区湯島３-41-2 林ビル 2F",
+        "band": "不可",
+        "barrier_free": "なし",
+        "budget": {
+          "average": "3000円（通常平均） 3000円（宴会平均） 1000円（ランチ平均）",
+          "code": "B002",
+          "name": "2001～3000円"
+        },
+        "budget_memo": "",
+        "capacity": 130,
+        "card": "利用可",
+        "catch": "ガチ中華をご賞味下さい♪ 「潮汕牛肉鍋」！日本初◎",
+        "charter": "貸切不可",
+        "child": "お子様連れOK ：乳児からOK",
+        "close": "不定休日あり",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003473819/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003473819/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "なし",
+        "english": "あり",
+        "free_drink": "なし",
+        "free_food": "あり",
+        "genre": {
+          "catch": "ガチ中華　ゆったりくつろぎ個室空間で",
+          "code": "G007",
+          "name": "中華"
+        },
+        "horigotatsu": "なし",
+        "id": "J003473819",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7082582124,
+        "lng": 139.772216582,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/17/09/P041221709/P041221709_69.jpg",
+        "lunch": "あり",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業していない",
+        "mobile_access": "JR御徒町駅北口より徒歩約3分",
+        "name": "孫二娘潮汕牛肉火鍋　上野御徒町",
+        "name_kana": "すんあーにゃんちゃおしゃんにうろうほうぐぉ　うえのおかちまち",
+        "non_smoking": "全面禁煙",
+        "open": "月～日、祝日、祝前日: 11:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:00）",
+        "other_memo": "中国語（簡体字）（繁体字）メニューあり/中国語を話せるスタッフがいる",
+        "parking": "なし",
+        "party_capacity": 130,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/18/11/P041221811/P041221811_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/18/11/P041221811/P041221811_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/18/11/P041221811/P041221811_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/18/11/P041221811/P041221811_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/18/11/P041221811/P041221811_58_s.jpg"
+          }
+        },
+        "private_room": "あり",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "中国語（簡体字）（繁体字）メニューあり 外国語対応スタッフ：中国語を話せるスタッフがいる",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "仲御徒町",
+        "sub_genre": { "code": "G001", "name": "居酒屋" },
+        "tatami": "なし",
+        "tv": "なし",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003473819/?vos=nhppalsa000016"
+        },
+        "wedding": "",
+        "wifi": "未確認"
+      },
+      {
+        "access": "京成上野駅徒歩30秒!!JR上野駅徒歩3分!雨が降っても安心です。",
+        "address": "東京都台東区上野２－14－31　レイクサイドビル6F",
+        "band": "不可",
+        "barrier_free": "なし ：各種ご宴会等、お気軽に店舗までご相談ください♪～個室 居酒屋～",
+        "budget": {
+          "average": "通常時：3000円　宴会時：3500円",
+          "code": "B002",
+          "name": "2001～3000円"
+        },
+        "budget_memo": "席のみのご利用はお通し代がございます。混雑時は2時間制です。",
+        "capacity": 100,
+        "card": "利用可",
+        "catch": "宮崎県産尾崎牛 飲放付コースが3600円～",
+        "charter": "貸切可 ：80名様～貸切OKです☆最大120名様までご案内可能な上野最大級の宴会スペース～ 個室 居酒屋～",
+        "child": "お子様連れOK ：お子様連れも歓迎致します♪ご家族でもゆったりお食事可能です。～個室 居酒屋～",
+        "close": "年中無休",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003411682/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003411682/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "あり",
+        "free_drink": "あり ：各種飲み放題付きコースをご用意。各種ご宴会の予約承っております！～個室 居酒屋～",
+        "free_food": "なし ：食べ放題プランございます。～ 個室 居酒屋～",
+        "genre": {
+          "catch": "上野　居酒屋 個室  上野　駅近 宴会",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "なし ：座敷フロアのご用意はございませんが、お席のレイアウト等、お気軽にご相談下さい～個室 居酒屋～",
+        "id": "J003411682",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7105460361,
+        "lng": 139.7731783527,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/39/60/P040743960/P040743960_69.jpg",
+        "lunch": "なし",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業している",
+        "mobile_access": "駅徒歩30秒の居酒屋!",
+        "name": "尾崎牛×和モダン個室 しおり 上野駅前店",
+        "name_kana": "おざきぎゅう　わもだんこしつ　しおり　うえのえきまえてん",
+        "non_smoking": "一部禁煙",
+        "open": "月～金、祝前日: 15:00～翌0:00 （料理L.O. 23:30 ドリンクL.O. 23:30）土、日、祝日: 13:00～翌0:00 （料理L.O. 23:30 ドリンクL.O. 23:30）",
+        "other_memo": "貸切や記念日特典など様々なサービスをご用意しております。",
+        "parking": "なし ：なし ：お近くのコインパーキングをご利用ください。～個室 居酒屋～",
+        "party_capacity": 100,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/42/94/P040744294/P040744294_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/42/94/P040744294/P040744294_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/42/94/P040744294/P040744294_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/42/94/P040744294/P040744294_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/42/94/P040744294/P040744294_58_s.jpg"
+          }
+        },
+        "private_room": "あり ：全席シート個室～ 個室 居酒屋～",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G004", "name": "和食" },
+        "tatami": "なし ：座敷フロアのご用意はございませんが、お席のレイアウト等、お気軽にご相談下さい～個室 居酒屋～",
+        "tv": "なし",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003411682/?vos=nhppalsa000016"
+        },
+        "wedding": "バースデーパーティーや結婚式2次会の演出もお手伝いします。～個室 居酒屋～",
+        "wifi": "あり"
+      },
+      {
+        "access": "JR上野駅不忍口より徒歩約3分★御徒町駅より徒歩5分★",
+        "address": "東京都台東区上野４－9－6　ナガフジビル７階",
+        "band": "不可",
+        "barrier_free": "なし ：各種ご要望承りますので、何かございましたら、まずはお気軽にお問い合わせください。",
+        "budget": {
+          "average": "3500円～6000円（各種飲み放題付きコース等をご用意♪）",
+          "code": "B008",
+          "name": "4001～5000円"
+        },
+        "budget_memo": "GoToEat食事券/GoToトラベル/d ポイント",
+        "capacity": 120,
+        "card": "利用可",
+        "catch": "☆黒毛和牛焼肉食べ放題★ 焼肉食べ放題が3500円～！",
+        "charter": "貸切可 ：40名様より貸切宴会承ります。オープンフロア席の対応が可能です。お気軽にお問い合わせください。",
+        "child": "お子様連れ歓迎 ：お子様連れ歓迎！食べ放題小学生1000引き/未就学児無料!ご家族でもゆったりできるお席でお楽しみください。",
+        "close": "年末年始定休★焼肉食べ放題は【肉屋の台所　上野公園前店】へ！時間外宴会10名様以上で受付いたします。お気軽にご相談下さい。",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001232724/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001232724/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "あり",
+        "free_drink": "あり ：お得な飲み放題メニューは全50品以上、黒毛和牛の食べ放題と併せてお楽しみいただけます。",
+        "free_food": "あり ：お得な食べ放題プラン3500円～、各種食べ放題のプランのご用意ございます！豪華黒毛和牛食べ放題あり",
+        "genre": {
+          "catch": "上野 御徒町 焼肉 食べ飲み放題 黒毛和牛",
+          "code": "G008",
+          "name": "焼肉・ホルモン"
+        },
+        "horigotatsu": "なし ：掘りごたつ席のご用意はございませんが、お席のレイアウト等、お気軽にご相談ください。",
+        "id": "J001232724",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7101783232,
+        "lng": 139.7740535709,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/72/61/P038487261/P038487261_69.jpg",
+        "lunch": "あり",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業していない",
+        "mobile_access": "上野 御徒町 上野御徒町 上野広小路 京成上野",
+        "name": "和牛焼肉食べ放題 肉屋の台所 上野公園前店",
+        "name_kana": "わぎゅうやきにくたべほうだい　にくやのだいどころ　うえのこうえんまえてん",
+        "non_smoking": "全面禁煙",
+        "open": "月～日、祝日、祝前日: 12:00～23:00 （料理L.O. 22:30 ドリンクL.O. 22:30）",
+        "other_memo": "昼飲み・昼宴会のご予約歓迎！12時～OKです。10名様以上の大人数宴会もご相談下さい◎",
+        "parking": "なし ：当店は駐車場がございませんので、車でお越しの際は、お近くの駐車場をご利用ください。",
+        "party_capacity": 124,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/72/62/P038487262/P038487262_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/72/62/P038487262/P038487262_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/72/62/P038487262/P038487262_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/72/62/P038487262/P038487262_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/72/62/P038487262/P038487262_58_s.jpg"
+          }
+        },
+        "private_room": "あり ：完全個室あり！2名様～22名様まで落ち着ける個室ご用意しております。お気軽にお問い合わせください。",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "※その他ご要望・ご不明な点等ございましたら、お気軽にお問い合わせください。",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G001", "name": "居酒屋" },
+        "tatami": "なし ：お座席敷のご用意はございませんが、お席のレイアウト等、お気軽にご相談ください。",
+        "tv": "なし",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001232724/?vos=nhppalsa000016"
+        },
+        "wedding": "バースデーパーティーや結婚式2次会の演出もお手伝いします。詳細はお問合せ下さい 。",
+        "wifi": "あり"
+      },
+      {
+        "access": "JR各線新橋駅 徒歩5分/東京メトロ銀座線新橋駅 徒歩7分/都営大江戸線汐留駅 徒歩1分／ゆりかもめ汐留駅 徒歩1分",
+        "address": "東京都港区東新橋１－８－1　カレッタ汐留４６Ｆ",
+        "band": "不可",
+        "barrier_free": "あり ：お手伝いが必要な際はお声かけくださいませ。",
+        "budget": {
+          "average": "3,500円（ディナー）/ 4,000円（コース）/ 900円（ランチ）",
+          "code": "B008",
+          "name": "4001～5000円"
+        },
+        "budget_memo": "お通し料金 495円(税込)",
+        "capacity": 136,
+        "card": "利用可",
+        "catch": "鮮度抜群海鮮居酒屋 北海道を愉しむ",
+        "charter": "貸切不可 ：※人数様により応相談となります。",
+        "child": "お子様連れOK ：個室完備でお子様連れのお客様でも安心してご利用頂けます。",
+        "close": "ビルに準ずる",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ000981187/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ000981187/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "あり",
+        "free_drink": "あり ：飲み放題付コース各種あり！単品飲み放題は2時間1650円(税込)～ございます！",
+        "free_food": "なし",
+        "genre": {
+          "catch": "旬の食材・蟹・海鮮＆日本酒を愉しむ居酒屋",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "なし ：掘りごたつ席はございませんが、テーブル個室完備人数・ニーズに合わせてご用意いたします。",
+        "id": "J000981187",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.6649842101,
+        "lng": 139.7623780459,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/83/64/P038548364/P038548364_69.jpg",
+        "lunch": "あり",
+        "middle_area": {
+          "code": "Y005",
+          "name": "銀座・有楽町・新橋・築地・月島"
+        },
+        "midnight": "営業していない",
+        "mobile_access": "JR新橋駅 徒歩5分/ゆりかもめ汐留駅 徒歩1分 ",
+        "name": "北海道 カレッタ汐留店",
+        "name_kana": "ほっかいどう　かれったしおどめてん",
+        "non_smoking": "全面禁煙",
+        "open": "月～日、祝日、祝前日: 11:00～14:30 （料理L.O. 14:00 ドリンクL.O. 14:00）16:00～23:00 （料理L.O. 22:30 ドリンクL.O. 22:45）",
+        "other_memo": "昼の食事会や貸切など、人数やご予算に応じて承りますのでお気軽にご相談下さいませ。",
+        "parking": "なし ：近隣のコインパーキング等をご利用下さいませ。",
+        "party_capacity": 60,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/57/99/P040995799/P040995799_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/57/99/P040995799/P040995799_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/57/99/P040995799/P040995799_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/57/99/P040995799/P040995799_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/57/99/P040995799/P040995799_58_s.jpg"
+          }
+        },
+        "private_room": "あり ：個室完備。人数・ニーズに合わせてご用意いたします。",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "ランチメニュー・コース・定食メニューについてはサービス料10％を頂きません。",
+        "show": "なし",
+        "small_area": { "code": "X021", "name": "汐留" },
+        "station_name": "新橋",
+        "sub_genre": { "code": "G004", "name": "和食" },
+        "tatami": "なし ：座敷はございませんが、テーブル個室完備。人数・ニーズに合わせてご用意いたします。",
+        "tv": "なし",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ000981187/?vos=nhppalsa000016"
+        },
+        "wedding": "各種2次会ご予約承ります。人数・ご予算等お気軽にお問い合わせくださいませ。",
+        "wifi": "あり"
+      },
+      {
+        "access": "上野駅　御徒町駅 徒歩2分●本場博多の味、野菜巻き・鍋が自慢のお店！",
+        "address": "東京都台東区上野４丁目８－６　プラザUビル４F",
+        "band": "不可",
+        "barrier_free": "あり ：バリアフリーの詳細はお店にお問合せください。",
+        "budget": {
+          "average": "3,000円　◆焼き鳥や肉串の3h食べ飲み放題は2,980円～ご用意◆",
+          "code": "B002",
+          "name": "2001～3000円"
+        },
+        "budget_memo": "お通しあり",
+        "capacity": 100,
+        "card": "利用可",
+        "catch": "プライベート個室空間！ 当店名物の野菜巻き串！",
+        "charter": "貸切可 ：30名様～貸切対応可能。お気軽にお問い合わせください。",
+        "child": "お子様連れOK ：お子様大歓迎！完全個室席でお子様連れのお客様も安心♪",
+        "close": "無休",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001234419/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001234419/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "あり",
+        "free_drink": "あり ：全128種類！単品飲み放題プラン⇒1000円よりご用意！",
+        "free_food": "あり ：自慢の北海道の上質素材を使用した逸品料理付コースは3,500円よりご用意。飲み放題は全コース3時間♪",
+        "genre": {
+          "catch": "～博多串焼き・野菜巻・鍋を隠れ家個室で～",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "なし ：広々とした個室空間でまったりとしたひとときをお過ごしください。",
+        "id": "J001234419",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.709697537,
+        "lng": 139.7737941679,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/86/50/P036108650/P036108650_69.jpg",
+        "lunch": "あり",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業している",
+        "mobile_access": "上野駅徒歩2分!本場博多の味､野菜巻き･鍋が自慢",
+        "name": "完全個室居酒屋 九州よしき 上野",
+        "name_kana": "はかたくしやきたべほうだい　かんぜんこしついざかや　きゅうしゅうよしき　うえの",
+        "non_smoking": "一部禁煙",
+        "open": "月～日、祝日、祝前日: 12:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）",
+        "other_memo": "お昼の宴会、深夜の宴会も承ります。お気軽にお問い合わせください。",
+        "parking": "あり ：お近くのコインパーキングをご利用ください。",
+        "party_capacity": 150,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/56/34/P037215634/P037215634_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/56/34/P037215634/P037215634_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/56/34/P037215634/P037215634_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/56/34/P037215634/P037215634_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/56/34/P037215634/P037215634_58_s.jpg"
+          }
+        },
+        "private_room": "あり ：全席扉付きの完全個室となっておりますのでまったりとお過ごしいただけます。",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "※当店は顧客満足度向上の為抽選で覆面調査の御協力お願いしております！指定されたお客様は会計無料です。",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G004", "name": "和食" },
+        "tatami": "なし ：お客様だけの完全プライベート空間で周りを気にせずお愉しみいただけます。",
+        "tv": "なし",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001234419/?vos=nhppalsa000016"
+        },
+        "wedding": "貸切の婚礼などパーティーを承ります。お気軽にご相談下さい。",
+        "wifi": "あり"
+      },
+      {
+        "access": "上野駅 徒歩3分　JR御徒町駅　徒歩3分　　【各路線からアクセス良好 × 集合&待ち合わせも容易】",
+        "address": "東京都台東区上野６-13-7 1F",
+        "band": "不可",
+        "barrier_free": "あり ：お手伝い必要な際はお教え願います！",
+        "budget": {
+          "average": "上野No1コスパの串焼き",
+          "code": "B002",
+          "name": "2001～3000円"
+        },
+        "budget_memo": "24時間宴会コースが受付可能です♪単品飲み放題も実施中♪",
+        "capacity": 200,
+        "card": "利用可",
+        "catch": "◆自慢のブランド鶏・豚 ◆店主のこだわりドリンク",
+        "charter": "貸切不可 ：フロア貸切も各種受付中です♪100名様の宴会も可能です♪",
+        "child": "お子様連れ不可",
+        "close": "定休日はございません！毎日24時間営業中♪",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003366666/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003366666/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "あり",
+        "free_drink": "あり ：各種飲み放題付きコースをご用意。+500円で店内の飲み物全て飲み放題",
+        "free_food": "なし ：食べ放題はご用意がございません！",
+        "genre": {
+          "catch": "上野 焼き豚 アクセスNo.1  上野駅３分　",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "なし ：全席掘りごたつ式の完全個室でございます。",
+        "id": "J003366666",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7108349473,
+        "lng": 139.7752270559,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/31/31/P041253131/P041253131_69.jpg",
+        "lunch": "あり",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業している",
+        "mobile_access": "JR上野駅 徒歩3分/JR御徒町駅 徒歩5分",
+        "name": "TONTON 上野店",
+        "name_kana": "こしつさかば　すみびやきとり　やきぶた　はちじゅうえん　とんとん　うえのてん",
+        "non_smoking": "禁煙席なし",
+        "open": "月～日、祝日、祝前日: 00:00～翌0:00",
+        "other_memo": "ご不明点等、お気軽に店舗へご相談下さい！",
+        "parking": "なし ：お近くのコインパーキングをご利用ください。お酒を飲まれる際はお車でのお越しはご遠慮ください。",
+        "party_capacity": 200,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/31/34/P041253134/P041253134_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/31/34/P041253134/P041253134_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/31/34/P041253134/P041253134_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/31/34/P041253134/P041253134_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/31/34/P041253134/P041253134_58_s.jpg"
+          }
+        },
+        "private_room": "あり ：全席掘りごたつ式の個室です。少人数から団体様まで様々なシーン対応！",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "ご不明点はお気軽にお問い合わせ下さい。",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G003", "name": "創作料理" },
+        "tatami": "なし ：お座敷フロアのご用意はございませんが、お席のレイアウト等、お気軽にご相談下さい！",
+        "tv": "あり",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003366666/?vos=nhppalsa000016"
+        },
+        "wedding": "誕生日や記念日、結婚式2次会等の演出もお手伝いします！是非ご相談下さい！",
+        "wifi": "あり"
+      },
+      {
+        "access": "上野駅 徒歩3分　JR御徒町駅　徒歩3分　　【各路線からアクセス良好 × 集合&待ち合わせも容易】",
+        "address": "東京都台東区上野６-13-5 1F",
+        "band": "不可",
+        "barrier_free": "あり ：お手伝い必要な際はお教え願います！",
+        "budget": {
+          "average": "焼き鳥１００円のTVでも今話題の店♪全品『大山地鶏』を使用！",
+          "code": "B002",
+          "name": "2001～3000円"
+        },
+        "budget_memo": "24時間宴会コースが受付可能です♪単品飲み放題も実施中♪",
+        "capacity": 200,
+        "card": "利用可",
+        "catch": "◆自慢の地鶏料理 ◆店主のこだわり地酒",
+        "charter": "貸切可 ：フロア貸切も各種受付中です♪100名様の宴会も可能です♪",
+        "child": "お子様連れ不可",
+        "close": "定休日はございません！毎日24時間営業中♪※日曜日の24時～月曜日の10時まではCLOSEとなります。",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001265413/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001265413/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "あり",
+        "free_drink": "あり ：各種飲み放題付きコースをご用意。+500円で店内の飲み物全て飲み放題",
+        "free_food": "なし ：食べ放題はご用意がございません！",
+        "genre": {
+          "catch": "上野　焼き鳥アクセスNo.1  上野駅３分　",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "あり ：全席掘りごたつ式の完全個室でございます。",
+        "id": "J001265413",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7106341356,
+        "lng": 139.7751912337,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/94/45/P029509445/P029509445_69.jpg",
+        "lunch": "あり",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業している",
+        "mobile_access": "JR上野駅 徒歩3分/JR御徒町駅 徒歩5分",
+        "name": "鳥道酒場 上野本店",
+        "name_kana": "ひゃくえんやきとりとりみちさかばうえのほんてん",
+        "non_smoking": "禁煙席なし",
+        "open": "月～日、祝日、祝前日: 11:00～翌5:00 （料理L.O. 翌4:00 ドリンクL.O. 翌4:00）",
+        "other_memo": "ご不明点等、お気軽に店舗へご相談下さい！",
+        "parking": "なし ：お近くのコインパーキングをご利用ください。お酒を飲まれる際はお車でのお越しはご遠慮ください。",
+        "party_capacity": 200,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/08/64/P039000864/P039000864_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/08/64/P039000864/P039000864_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/08/64/P039000864/P039000864_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/08/64/P039000864/P039000864_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/08/64/P039000864/P039000864_58_s.jpg"
+          }
+        },
+        "private_room": "あり ：全席掘りごたつ式の個室です。少人数から団体様まで様々なシーン対応！",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "ご不明点はお気軽にお問い合わせ下さい。",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G003", "name": "創作料理" },
+        "tatami": "なし ：お座敷フロアのご用意はございませんが、お席のレイアウト等、お気軽にご相談下さい！",
+        "tv": "あり",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001265413/?vos=nhppalsa000016"
+        },
+        "wedding": "誕生日や記念日、結婚式2次会等の演出もお手伝いします！是非ご相談下さい！",
+        "wifi": "あり"
+      },
+      {
+        "access": "京成上野駅徒歩30秒!!JR上野駅徒歩3分の好立地。",
+        "address": "東京都台東区上野２－14－31　レイクサイドビル6F",
+        "band": "不可",
+        "barrier_free": "なし ：各種ご宴会等、お気軽に店舗までご相談ください♪～個室 居酒屋～",
+        "budget": {
+          "average": "通常時：3000円　宴会時：3500円",
+          "code": "B002",
+          "name": "2001～3000円"
+        },
+        "budget_memo": "席のみのご利用はお通し代がございます。混雑時は2時間制です。",
+        "capacity": 100,
+        "card": "利用可",
+        "catch": "ぷりっぷり兵庫県産生牡蠣 大・小様々な個室席",
+        "charter": "貸切可 ：80名様～貸切OKです☆最大120名様までご案内可能な上野最大級の宴会スペース～ 個室 居酒屋～",
+        "child": "お子様連れOK ：お子様連れも歓迎致します♪ご家族でもゆったりお食事可能です。～個室 居酒屋～",
+        "close": "年中無休",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003411674/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003411674/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "あり",
+        "free_drink": "あり ：各種飲み放題付きコースをご用意。各種ご宴会の予約承っております！～個室 居酒屋～",
+        "free_food": "なし ：食べ放題プランございます。～ 個室 居酒屋～",
+        "genre": {
+          "catch": "上野　居酒屋 個室 肉バル 上野　駅近 宴会",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "なし ：座敷フロアのご用意はございませんが、お席のレイアウト等、お気軽にご相談下さい～個室 居酒屋～",
+        "id": "J003411674",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7105460361,
+        "lng": 139.7731783527,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/44/73/P040754473/P040754473_69.jpg",
+        "lunch": "なし",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業している",
+        "mobile_access": "駅から徒歩30秒の個室居酒屋",
+        "name": "尾崎牛と牡蠣のバル SHIKIBU 上野駅前店",
+        "name_kana": "おざきぎゅうとかきのばる　しきぶ　うえのえきまえてん",
+        "non_smoking": "一部禁煙",
+        "open": "月～金、祝前日: 15:00～翌0:00 （料理L.O. 23:30 ドリンクL.O. 23:30）土、日、祝日: 13:00～翌0:00 （料理L.O. 23:30 ドリンクL.O. 23:30）",
+        "other_memo": "貸切や記念日特典など様々なサービスをご用意しております。",
+        "parking": "なし ：なし ：お近くのコインパーキングをご利用ください。～個室 居酒屋～",
+        "party_capacity": 100,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/45/12/P040754512/P040754512_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/45/12/P040754512/P040754512_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/45/12/P040754512/P040754512_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/45/12/P040754512/P040754512_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/45/12/P040754512/P040754512_58_s.jpg"
+          }
+        },
+        "private_room": "あり ：全席シート個室～ 個室 居酒屋～",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G001", "name": "居酒屋" },
+        "tatami": "なし ：座敷フロアのご用意はございませんが、お席のレイアウト等、お気軽にご相談下さい～個室 居酒屋～",
+        "tv": "なし",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003411674/?vos=nhppalsa000016"
+        },
+        "wedding": "バースデーパーティーや結婚式2次会の演出もお手伝いします。～個室 居酒屋～",
+        "wifi": "あり"
+      },
+      {
+        "access": "上野駅 徒歩1分【ABAB隣のプラザUビル】",
+        "address": "東京都台東区上野４-８－６　プラザU　８F-A",
+        "band": "不可",
+        "barrier_free": "あり ：バリアフリーの詳細はお店にお問合せください。",
+        "budget": {
+          "average": "3000円《3H食べ放&飲み放コース3,000円！》",
+          "code": "B002",
+          "name": "2001～3000円"
+        },
+        "budget_memo": "お通し代あり(コース除く)",
+        "capacity": 100,
+        "card": "利用可",
+        "catch": "24時まで！酒類提供も◎ インスタ映え◎のお店♪",
+        "charter": "貸切不可 ：30名様～貸切対応可能。お気軽にお問い合わせください。",
+        "child": "お子様連れOK ：お子様大歓迎！完全個室席でお子様連れのお客様も安心♪",
+        "close": "年中無休",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001178878/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001178878/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "あり",
+        "free_drink": "あり ：3H飲み放題付きコース2,980円～♪アラカルトでも飲み放題をご用意しております！",
+        "free_food": "あり ：3H食べ飲み放題コースを3,000円～ご用意しております！お肉食べ放題プラン♪",
+        "genre": {
+          "catch": "上野駅近！個室で味わう「肉」&「ビール」",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "なし ：広々とした個室空間でまったりとしたひとときをお過ごしください。",
+        "id": "J001178878",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7096258784,
+        "lng": 139.7737941707,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/97/22/P034869722/P034869722_69.jpg",
+        "lunch": "あり",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業していない",
+        "mobile_access": "上野駅 徒歩1分【ABAB隣のﾌﾟﾗｻﾞUﾋﾞﾙ】",
+        "name": "MeatBeer ミートビア 上野店",
+        "name_kana": "にくばる　びあほーる　みーとびあ　うえのてん",
+        "non_smoking": "一部禁煙",
+        "open": "月～日、祝日、祝前日: 12:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:00）",
+        "other_memo": "お昼の宴会、深夜の宴会も承ります。お気軽にお問い合わせください。",
+        "parking": "あり ：お近くのコインパーキングをご利用ください。",
+        "party_capacity": 150,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/92/27/P037609227/P037609227_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/92/27/P037609227/P037609227_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/92/27/P037609227/P037609227_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/92/27/P037609227/P037609227_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/92/27/P037609227/P037609227_58_s.jpg"
+          }
+        },
+        "private_room": "あり ：全席扉付きの完全個室となっておりますのでまったりとお過ごしいただけます。",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "※当店は顧客満足度向上の為抽選で覆面調査の御協力お願いしております！指定されたお客様は会計無料です。",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G002", "name": "ダイニングバー・バル" },
+        "tatami": "なし ：お客様だけの完全プライベート空間で周りを気にせずお愉しみいただけます。",
+        "tv": "なし",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001178878/?vos=nhppalsa000016"
+        },
+        "wedding": "貸切の婚礼などパーティーを承ります。お気軽にご相談下さい。",
+        "wifi": "あり"
+      },
+      {
+        "access": "ＪＲ上野駅　徒歩3分／ＪＲ御徒町駅　徒歩3分／銀座線上野広小路駅すぐ　京成上野駅徒歩2分/ヨドバシカメラの並びです。",
+        "address": "東京都台東区上野４－９－６　上野ナガフジビル５Ｆ",
+        "band": "不可",
+        "barrier_free": "あり ：車椅子や足の不自由な方のために段差の少ないつつくりになっております。別途障害者の方用のトイレもご用意",
+        "budget": {
+          "average": "3000円",
+          "code": "B003",
+          "name": "3001～4000円"
+        },
+        "budget_memo": "お通し代330円・その他宴会プランのご相談もお気軽にどうぞ♪",
+        "capacity": 200,
+        "card": "利用可",
+        "catch": "韓国食べ飲み放題フェア！ 3H飲み放題付宴会プラン",
+        "charter": "貸切不可 ：最大60名様までのご宴会が可能★昼宴会等もお承り致します！店舗の貸切は140名様からご予約が可能です♪",
+        "child": "お子様連れ歓迎",
+        "close": "1/1",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001010941/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001010941/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "なし",
+        "free_drink": "あり ：お得な「２時間・３時間」の飲み放題付き宴会プランを多数ご用意いたしました♪お気軽にお問合せください♪",
+        "free_food": "あり",
+        "genre": {
+          "catch": "上野　個室　居酒屋　女子会　 誕生日　",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "あり ：最大60名様までのご宴会が可能です昼宴会等もお承り致します！！掘りごたつ式のお席ですので足も楽です。",
+        "id": "J001010941",
+        "karaoke": "あり",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7101627679,
+        "lng": 139.7740002427,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/26/84/P038792684/P038792684_69.jpg",
+        "lunch": "なし",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業している",
+        "mobile_access": "JR上野駅･御徒町駅徒歩3分/銀座線上野広小路駅すぐ",
+        "name": "NEO酒場 てふてふ 上野店",
+        "name_kana": "かんぜんこしつ　ねおさかば　てふてふうえのてん",
+        "non_smoking": "禁煙席なし",
+        "open": "月～木、祝日: 17:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）金、土、祝前日: 15:00～翌5:00 （料理L.O. 翌4:00 ドリンクL.O. 翌4:30）日: 15:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）",
+        "other_memo": "カラオケ、TV、ご用意。女子会や誕生日に人気の個室居酒屋彩羽～IROHA～上野店♪",
+        "parking": "なし",
+        "party_capacity": 60,
+        "pet": "可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/18/21/P041371821/P041371821_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/18/21/P041371821/P041371821_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/18/21/P041371821/P041371821_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/18/21/P041371821/P041371821_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/18/21/P041371821/P041371821_58_s.jpg"
+          }
+        },
+        "private_room": "あり ：多種多様な個室・カラオケ付きのお部屋もご用意しております♪♪",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "最大60名様までのご宴会が可能★昼宴会等も承ります！女子会や誕生日に人気の個室居酒屋彩羽～IROHA～上野",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G002", "name": "ダイニングバー・バル" },
+        "tatami": "なし ：最大60名様までのご宴会が可能です昼宴会等もお承り致します！",
+        "tv": "あり",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001010941/?vos=nhppalsa000016"
+        },
+        "wedding": "お気軽にご相談下さい♪",
+        "wifi": "なし"
+      },
+      {
+        "access": "上野駅 徒歩1分",
+        "address": "東京都台東区上野４-８－６　プラザU　８F-A",
+        "band": "不可",
+        "barrier_free": "あり ：バリアフリーの詳細はお店にお問合せください。（上野/個室/居酒屋/食べ放題/飲み放題/宴会/女子会/接待）",
+        "budget": {
+          "average": "3,000円　★3時間飲み放題付き宴会コース3,500円~！",
+          "code": "B003",
+          "name": "3001～4000円"
+        },
+        "budget_memo": "お通し代あり(コース除く)",
+        "capacity": 100,
+        "card": "利用可",
+        "catch": "自慢の地鶏鍋の食べ放題◎ 2H飲み放題付き3000円~",
+        "charter": "貸切不可 ：30名様～貸切対応可能。お気軽にお問い合わせください。（上野/個室/居酒屋/食べ放題/飲み放題/宴会）",
+        "child": "お子様連れ歓迎 ：完全個室でお子様連れのお客様も安心♪お昼の宴会,ママ会も◎（新橋//個室/居酒屋/食べ放題/飲み放題）",
+        "close": "無休",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001285814/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001285814/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "あり",
+        "free_drink": "あり ：3h飲み放題付きコース3500円～各種ご用意！（新橋/個室/居酒屋/食べ放題/飲み放題/宴会/女子会/接待）",
+        "free_food": "なし",
+        "genre": {
+          "catch": "20時以降営業 話題のビール&上州地鶏のお店",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "なし ：全席扉付きの完全個室となっておりますので様々なシーンにご対応可能です。（上野/個室/居酒屋）",
+        "id": "J001285814",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.709697537,
+        "lng": 139.7737941679,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/78/71/P040907871/P040907871_69.jpg",
+        "lunch": "あり",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業している",
+        "mobile_access": "上野駅 徒歩1分",
+        "name": "鳥丸 上野店",
+        "name_kana": "じょうしゅうじどりせんもんてん　たべほうだい　かんぜんこしつ　とりまる　うえのてん",
+        "non_smoking": "一部禁煙",
+        "open": "月～日、祝日、祝前日: 11:00～翌0:00 （料理L.O. 23:30 ドリンクL.O. 23:30）",
+        "other_memo": "お昼の宴会,深夜の宴会も承ります。お気軽にお問い合わせください。",
+        "parking": "あり ：お近くのコインパーキングをご利用ください。（上野/個室/居酒屋/食べ放題/飲み放題/宴会/女子会/接待）",
+        "party_capacity": 100,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/78/73/P040907873/P040907873_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/78/73/P040907873/P040907873_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/78/73/P040907873/P040907873_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/78/73/P040907873/P040907873_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/78/73/P040907873/P040907873_58_s.jpg"
+          }
+        },
+        "private_room": "あり ：全席扉付きの完全個室となっておりますので様々なシーンにご対応可能です。（上野/個室/居酒屋）",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "※当店は顧客満足度向上の為抽選で覆面調査の御協力お願いしております！指定されたお客様は会計無料です。",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G001", "name": "居酒屋" },
+        "tatami": "なし ：お座敷個室はございません。（上野/個室/居酒屋/飲み放題/宴会/女子会/接待）",
+        "tv": "あり",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001285814/?vos=nhppalsa000016"
+        },
+        "wedding": "貸切の婚礼などパーティーを承ります。お気軽にご相談下さい。（新橋/個室/居酒屋）",
+        "wifi": "あり"
+      },
+      {
+        "access": "JR上野駅徒歩1分",
+        "address": "東京都台東区上野４－８－９　２階",
+        "band": "不可",
+        "barrier_free": "なし",
+        "budget": {
+          "average": "3000円",
+          "code": "B003",
+          "name": "3001～4000円"
+        },
+        "budget_memo": "GoToEATお食事券は現在ご利用いただけません。",
+        "capacity": 80,
+        "card": "利用可",
+        "catch": "【コロナ対策実施中】 サプライズもお任せ！",
+        "charter": "貸切不可",
+        "child": "お子様連れ歓迎",
+        "close": "なし",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001284069/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001284069/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "なし",
+        "free_drink": "あり",
+        "free_food": "なし",
+        "genre": {
+          "catch": "【全席個室】お肉とチーズの研究所♪",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "なし",
+        "id": "J001284069",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7097494795,
+        "lng": 139.7739377647,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/24/05/P039412405/P039412405_69.jpg",
+        "lunch": "あり",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業している",
+        "mobile_access": "JR上野駅徒歩1分",
+        "name": "肉ラボ 上野店",
+        "name_kana": "ろーすとびーふとくろげわぎゅうたべほうだいにくらぼうえのてん",
+        "non_smoking": "禁煙席なし",
+        "open": "月、火、木～日、祝日、祝前日: 12:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）水: 12:00～翌0:00 （料理L.O. 19:00 ドリンクL.O. 23:30）",
+        "other_memo": "",
+        "parking": "なし",
+        "party_capacity": 80,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/24/04/P039412404/P039412404_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/24/04/P039412404/P039412404_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/24/04/P039412404/P039412404_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/24/04/P039412404/P039412404_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/24/04/P039412404/P039412404_58_s.jpg"
+          }
+        },
+        "private_room": "あり",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G002", "name": "ダイニングバー・バル" },
+        "tatami": "なし",
+        "tv": "なし",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001284069/?vos=nhppalsa000016"
+        },
+        "wedding": "",
+        "wifi": "未確認"
+      },
+      {
+        "access": "JR「上野駅」徒歩5分/地下鉄銀座線「上野広小路駅」徒歩5分/地下鉄都営大江戸線「上野御徒町駅」徒歩5分!",
+        "address": "東京都台東区上野４-8-10　第3 ＳＥＩＫＡ　ＢＬＤ123",
+        "band": "不可",
+        "barrier_free": "なし ：1階は段差もないので安心☆ご心配であればご来店前にお問い合わせ下さい☆可能な限りご要望にお応えします!",
+        "budget": {
+          "average": "3000円（通常）、4000円（宴会）",
+          "code": "B003",
+          "name": "3001～4000円"
+        },
+        "budget_memo": "お通し350円",
+        "capacity": 64,
+        "card": "利用可",
+        "catch": "JR「上野駅」徒歩5分 不動の人気ちゃんぷるー！",
+        "charter": "貸切不可 ：フロア貸切20～最大30名様くらいまで★　離れのお店ならお店の貸切もご相談頂けます♪詳しくはＴＥＬにて☆",
+        "child": "お子様連れ歓迎 ：土日はクラブ活動の打ち上げなどでもご利用いただいております♪15名様以上でフロア貸切OK!!",
+        "close": "なし",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ000025981/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ000025981/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "なし",
+        "free_drink": "あり ：+500円で泡盛・焼酎グレードアップしたプレミアム飲み放題に出来ます★",
+        "free_food": "なし ：一品一品真心込めてご提供いたします♪",
+        "genre": {
+          "catch": "個室完備☆コロナ対策実施店舗！",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "なし ：落ち着いたゆったり掘りごたつは、個室も完備なのでお早めの予約でお子様連れでも安心してご利用頂けます♪",
+        "id": "J000025981",
+        "karaoke": "なし",
+        "ktai_coupon": 1,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7097733686,
+        "lng": 139.7740455323,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/22/87/P031842287/P031842287_69.jpg",
+        "lunch": "なし",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業していない",
+        "mobile_access": "JR｢上野駅｣･地下鉄銀座線｢上野広小路駅｣徒歩5分",
+        "name": "沖縄ダイニング 琉歌 りゅうか 上野本館",
+        "name_kana": "そおきなわだいにんぐ　りゅうか　うえのほんかん",
+        "non_smoking": "禁煙席なし",
+        "open": "月～金、祝前日: 16:00～23:30 （料理L.O. 22:30 ドリンクL.O. 23:00）土、日、祝日: 12:00～23:30 （料理L.O. 22:30 ドリンクL.O. 23:00）",
+        "other_memo": "各種ご要望に可能な限りお応え致しますので、是非お気軽にお問い合わせご相談下さい♪",
+        "parking": "なし ：近くには上野駅周辺にパーキング多数御座います。",
+        "party_capacity": 30,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/42/27/P036344227/P036344227_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/42/27/P036344227/P036344227_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/42/27/P036344227/P036344227_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/42/27/P036344227/P036344227_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/42/27/P036344227/P036344227_58_s.jpg"
+          }
+        },
+        "private_room": "あり ：4～6名★7～12名★　少人数予約にぴったりの個室ご用意しております♪　※人気席なのでお早め予約お薦め☆",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "※事前にお席のご予約をされるとスムーズにご案内出来ます。",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G002", "name": "ダイニングバー・バル" },
+        "tatami": "あり ：ゆったり個室～最大30名収容のフロアまで、ご予約人数に合わせた席タイプ多数ご用意★まずはお問い合わせ♪",
+        "tv": "なし",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ000025981/?vos=nhppalsa000016"
+        },
+        "wedding": "お電話にてご相談下さい！",
+        "wifi": "なし"
+      },
+      {
+        "access": "上野駅 不忍口 徒歩3分／湯島駅 2番出口 徒歩3分／上野御徒町駅 A3番出口 徒歩4分",
+        "address": "東京都台東区上野２丁目12番地11号宝丹ビル6F",
+        "band": "不可",
+        "barrier_free": "なし ：◇全品食べ放題飲み放題居酒屋 おすすめ屋 上野店◇",
+        "budget": {
+          "average": "2000円で食べ放題飲み放題　＜お通し/入場料など無し！＞",
+          "code": "B001",
+          "name": "1501～2000円"
+        },
+        "budget_memo": "",
+        "capacity": 117,
+        "card": "利用不可",
+        "catch": "豊富な品揃えが自慢！ もつ鍋食べ放題フェア",
+        "charter": "貸切可 ：人數などご相談承ります◇全品食べ放題飲み放題居酒屋 おすすめ屋 上野店◇",
+        "child": "お子様連れOK ：◇全品食べ放題飲み放題居酒屋 おすすめ屋 上野店◇",
+        "close": "定休日無し※12/31～1/3は休みとさせて頂きます。",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001162608/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001162608/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "なし",
+        "free_drink": "あり ：全70種類以上飲み放題◇全品食べ放題飲み放題居酒屋 おすすめ屋 上野店◇",
+        "free_food": "あり ：全70種類以上食べ放題◇全品食べ放題飲み放題居酒屋 おすすめ屋 上野店◇",
+        "genre": {
+          "catch": "2000円×食べ放題×飲み放題×居酒屋",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "なし ：◇全品食べ放題飲み放題居酒屋 おすすめ屋 上野店◇",
+        "id": "J001162608",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7093350201,
+        "lng": 139.7716374212,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/92/38/P026439238/P026439238_69.jpg",
+        "lunch": "なし",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業していない",
+        "mobile_access": "上野駅 不忍口 徒歩3分/湯島駅 2番出口 徒歩3分 ",
+        "name": "食べ放題飲み放題 居酒屋 おすすめ屋 上野店",
+        "name_kana": "にせんえんたべほうだいのみほうだいいざかやおすすめやうえのてん",
+        "non_smoking": "全面禁煙",
+        "open": "月～金: 17:00～23:30 （料理L.O. 23:00 ドリンクL.O. 23:00）土、日: 16:00～23:30 （料理L.O. 23:00 ドリンクL.O. 23:00）",
+        "other_memo": "◇全品食べ放題飲み放題居酒屋 おすすめ屋 上野店◇",
+        "parking": "なし ：◇全品食べ放題飲み放題居酒屋 おすすめ屋 上野店◇",
+        "party_capacity": 100,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/54/00/P037645400/P037645400_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/54/00/P037645400/P037645400_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/54/00/P037645400/P037645400_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/54/00/P037645400/P037645400_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/54/00/P037645400/P037645400_58_s.jpg"
+          }
+        },
+        "private_room": "あり ：◇全品食べ放題飲み放題居酒屋 おすすめ屋 上野店◇",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "◇全品食べ放題飲み放題居酒屋 おすすめ屋 上野店◇",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G004", "name": "和食" },
+        "tatami": "なし ：◇全品食べ放題飲み放題居酒屋 おすすめ屋 上野店◇",
+        "tv": "なし",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001162608/?vos=nhppalsa000016"
+        },
+        "wedding": "各種ご宴会イベント歓迎☆ご相談などもお気軽にどうぞ！！",
+        "wifi": "未確認"
+      },
+      {
+        "access": "東京メトロ上野駅Ｃ８出口より徒歩約2分こたつで忘年会！完全個室ございます♪",
+        "address": "東京都台東区上野６-13-2　渡辺上野ビル3F-A",
+        "band": "不可",
+        "barrier_free": "なし ：お手伝いが必要な際はお気軽にご連絡ください。",
+        "budget": {
+          "average": "３５００円",
+          "code": "B003",
+          "name": "3001～4000円"
+        },
+        "budget_memo": "",
+        "capacity": 120,
+        "card": "利用可",
+        "catch": "こたつ付き完全個室あり！ 焼鳥も海鮮も充実の居酒屋",
+        "charter": "貸切不可 ：お気軽にお問い合わせくださいませ！",
+        "child": "お子様連れOK ：ママ会にもお使いいただけます。",
+        "close": "不定休日あり",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001250971/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001250971/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "なし",
+        "free_drink": "あり ：単品飲み放題1500円。もちろんコースも飲み放題付です。",
+        "free_food": "あり",
+        "genre": {
+          "catch": "こたつで忘年会！完全個室ございます♪",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "なし ：掘りごたつ席ございます。女子会やママ会に好評です。",
+        "id": "J001250971",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7104433254,
+        "lng": 139.7752517918,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/34/80/P039353480/P039353480_69.jpg",
+        "lunch": "あり",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業している",
+        "mobile_access": "上野駅徒歩約2分 こたつ付き完全個室で宴会可能!",
+        "name": "旬蔵 上野本店",
+        "name_kana": "こたつつきかんぜんこしつ　にせんえんたべのみほうだい　しゅんぞううえのほんてん",
+        "non_smoking": "禁煙席なし",
+        "open": "月～日、祝日、祝前日: 12:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）",
+        "other_memo": "ご不明点がございましたらお気軽にお問合せください♪",
+        "parking": "なし ：近隣のパーキングをご利用ください。",
+        "party_capacity": 150,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/34/79/P039353479/P039353479_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/34/79/P039353479/P039353479_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/34/79/P039353479/P039353479_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/34/79/P039353479/P039353479_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/34/79/P039353479/P039353479_58_s.jpg"
+          }
+        },
+        "private_room": "なし ：個室席完備♪半個室・区切られたスペースのお席がございます。",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "コースはゆったり2時間コース～ご用意しております。",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G001", "name": "居酒屋" },
+        "tatami": "なし ：お座敷ご用意ございます。宴会に大変人気なお部屋となっております",
+        "tv": "あり",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001250971/?vos=nhppalsa000016"
+        },
+        "wedding": "お気軽にご相談下さい。",
+        "wifi": "未確認"
+      },
+      {
+        "access": "上野駅 徒歩1分【ABAB隣のプラザUビル】●本場博多の味、焼き鳥・野菜巻き・九州料理が自慢の完全個室居酒屋",
+        "address": "東京都台東区上野４-8-6 プラザU　４F-A",
+        "band": "不可",
+        "barrier_free": "あり ：バリアフリーの詳細はお店にお問合せください。",
+        "budget": {
+          "average": "3000円 ●3h飲み放題付コース2,980円！幹事様無料クーポンあり！",
+          "code": "B002",
+          "name": "2001～3000円"
+        },
+        "budget_memo": "お通しあり",
+        "capacity": 100,
+        "card": "利用可",
+        "catch": "24時まで！酒類の提供も◎ 全席扉付き完全個室完備◎",
+        "charter": "貸切不可 ：30名様～貸切対応可能。お気軽にお問い合わせください。",
+        "child": "お子様連れOK ：お子様大歓迎！完全個室席でお子様連れのお客様も安心♪",
+        "close": "無休",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001177076/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001177076/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "あり",
+        "free_drink": "あり ：3H飲み放題付きコース2,980円～♪アラカルトでも飲み放題をご用意しております！",
+        "free_food": "あり ：博多串焼き豪華盛り合わせの食べ放題＆3h飲み放題を期間限定価格の3,000円でご提供！",
+        "genre": {
+          "catch": "博多串焼き・野菜巻き・九州料理を個室で",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "あり ：広々とした個室空間でまったりとしたひとときをお過ごしください。",
+        "id": "J001177076",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7096258784,
+        "lng": 139.7737941707,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/28/41/P037582841/P037582841_69.jpg",
+        "lunch": "あり",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業している",
+        "mobile_access": "上野駅 徒歩1分【ABAB隣のﾌﾟﾗｻﾞUﾋﾞﾙ】完全個室完備",
+        "name": "なまいき上野店",
+        "name_kana": "ぜんせきとびらつきかんぜんこしつはかたくしやきやさいまきたべほうだいなまいきうえのてん",
+        "non_smoking": "一部禁煙",
+        "open": "月～日、祝日、祝前日: 12:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）",
+        "other_memo": "お昼の宴会、深夜の宴会も承ります。お気軽にお問い合わせください。",
+        "parking": "あり ：お近くのコインパーキングをご利用ください。",
+        "party_capacity": 150,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/28/40/P037582840/P037582840_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/28/40/P037582840/P037582840_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/28/40/P037582840/P037582840_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/28/40/P037582840/P037582840_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/28/40/P037582840/P037582840_58_s.jpg"
+          }
+        },
+        "private_room": "あり ：全席扉付きの完全個室となっておりますのでまったりとお過ごしいただけます。",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "※当店は顧客満足度向上の為抽選で覆面調査の御協力お願いしております！指定されたお客様は会計無料です。",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G004", "name": "和食" },
+        "tatami": "なし ：お客様だけの完全プライベート空間で周りを気にせずお愉しみいただけます。",
+        "tv": "なし",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001177076/?vos=nhppalsa000016"
+        },
+        "wedding": "貸切の婚礼などパーティーを承ります。お気軽にご相談下さい。",
+        "wifi": "あり"
+      },
+      {
+        "access": "京成上野駅 C7 徒歩1分/JR上野駅 不忍口 徒歩2分/JR御徒町駅 北口 徒歩3分/地下鉄銀座線 上野広小路駅 C9 徒歩3分",
+        "address": "東京都台東区上野４-8-9　OAKビル1階",
+        "band": "不可",
+        "barrier_free": "あり ：車いすで入店可",
+        "budget": {
+          "average": "3,000円（通常平均）/1,000円（ランチ平均）",
+          "code": "B003",
+          "name": "3001～4000円"
+        },
+        "budget_memo": "",
+        "capacity": 98,
+        "card": "利用可",
+        "catch": "喫煙可能なお店！ 【満腹★満足】食べ放題！",
+        "charter": "貸切可",
+        "child": "お子様連れOK",
+        "close": "年中無休",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003473570/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003473570/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "なし",
+        "free_drink": "あり",
+        "free_food": "なし",
+        "genre": {
+          "catch": "【喫煙可】厳選した炭火焼鳥が自慢の店◎",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "なし",
+        "id": "J003473570",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7097714214,
+        "lng": 139.7739338752,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/47/43/P041214743/P041214743_69.jpg",
+        "lunch": "あり",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業していない",
+        "mobile_access": "JR上野駅 不忍口 徒歩2分/JR御徒町駅 北口 徒歩3分",
+        "name": "炭火串焼き　和食居酒屋　しのぶ",
+        "name_kana": "すみびくしやき　わしょくいざかや　しのぶ",
+        "non_smoking": "禁煙席なし",
+        "open": "月～日、祝日、祝前日: 11:30～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:00）",
+        "other_memo": "",
+        "parking": "なし",
+        "party_capacity": 98,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/14/91/P041211491/P041211491_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/14/91/P041211491/P041211491_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/14/91/P041211491/P041211491_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/14/91/P041211491/P041211491_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/14/91/P041211491/P041211491_58_s.jpg"
+          }
+        },
+        "private_room": "あり",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G004", "name": "和食" },
+        "tatami": "なし",
+        "tv": "なし",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003473570/?vos=nhppalsa000016"
+        },
+        "wedding": "",
+        "wifi": "あり"
+      },
+      {
+        "access": "JR上野駅徒歩1分　3時間飲み放題あり♪完全個室あり！",
+        "address": "東京都台東区上野２-12-1 8F-B",
+        "band": "不可",
+        "barrier_free": "あり ：バリアフリーの詳細はお店にお問合せください。（上野/個室/居酒屋/食べ放題/飲み放題/宴会/女子会/接待）",
+        "budget": {
+          "average": "3,000円　★牛タンしゃぶしゃぶと肉寿司がイチオシ◎",
+          "code": "B003",
+          "name": "3001～4000円"
+        },
+        "budget_memo": "お通し代あり(コース除く)",
+        "capacity": 100,
+        "card": "利用可",
+        "catch": "24時まで！酒◎喫煙席も◎ 扉付き完全個室でご案内！",
+        "charter": "貸切可 ：30名様～貸切対応可能。お気軽にお問い合わせください。（上野/個室/居酒屋/食べ放題/飲み放題/宴会）",
+        "child": "お子様連れ歓迎 ：完全個室でお子様連れのお客様も安心♪お昼の宴会,ママ会も◎(上野/個室/居酒屋/食べ放題/飲み放題）",
+        "close": "無休",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001285816/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001285816/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "あり",
+        "free_drink": "あり ：3h飲み放題付きコース3000円～各種ご用意！（上野/個室/居酒屋/食べ放題/飲み放題/宴会/女子会/接待）",
+        "free_food": "なし ：（上野/個室/居酒屋/食べ放題/飲み放題/宴会/女子会）",
+        "genre": {
+          "catch": "牛タンと肉寿司が旨い夜景個室居酒屋",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "なし ：全席扉付きの完全個室となっておりますので様々なシーンにご対応可能です。（上野/個室/居酒屋）",
+        "id": "J001285816",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7096564107,
+        "lng": 139.7730517326,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/34/02/P038283402/P038283402_69.jpg",
+        "lunch": "あり",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業している",
+        "mobile_access": "JR上野駅徒歩1分 ",
+        "name": "奥羽本荘 上野店",
+        "name_kana": "とうほくうまいもんきょうどりょうり　ぎゅうたんとかんぜんこしつ　おううほんそううえの",
+        "non_smoking": "禁煙席なし",
+        "open": "月～日、祝日、祝前日: 11:00～翌0:00 （料理L.O. 23:30 ドリンクL.O. 23:30）",
+        "other_memo": "お昼の宴会,深夜の宴会も承ります。お気軽にお問い合わせください。",
+        "parking": "あり ：お近くのコインパーキングをご利用ください。（上野/個室/居酒屋/食べ放題/飲み放題/宴会/女子会/接待）",
+        "party_capacity": 100,
+        "pet": "可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/34/11/P038283411/P038283411_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/34/11/P038283411/P038283411_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/34/11/P038283411/P038283411_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/34/11/P038283411/P038283411_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/34/11/P038283411/P038283411_58_s.jpg"
+          }
+        },
+        "private_room": "あり ：全席扉付きの完全個室となっておりますので様々なシーンにご対応可能です。（上野/個室/居酒屋）",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "※当店は顧客満足度向上の為抽選で覆面調査の御協力お願いしております！指定されたお客様は会計無料です。",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G004", "name": "和食" },
+        "tatami": "なし ：お座敷個室はございません。（上野/個室/居酒屋/食べ放題/飲み放題/宴会/女子会/接待）",
+        "tv": "あり",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001285816/?vos=nhppalsa000016"
+        },
+        "wedding": "貸切の婚礼などパーティーを承ります。お気軽にご相談下さい。（上野/個室/居酒屋）",
+        "wifi": "あり"
+      },
+      {
+        "access": "京成上野駅徒歩30秒!!JR上野駅徒歩3分!! 駅近なので人込みを避けての待ち合わせ・解散も楽ちん◎",
+        "address": "東京都台東区上野２-14-31 レイクサイドビル ８F",
+        "band": "不可",
+        "barrier_free": "なし ：各種ご宴会等、お気軽に店舗までご相談ください♪～個室 居酒屋～",
+        "budget": {
+          "average": "通常時：3000円　宴会時：3500円",
+          "code": "B002",
+          "name": "2001～3000円"
+        },
+        "budget_memo": "席のみのご利用はお通し代がございます。混雑時は2時間制です。",
+        "capacity": 200,
+        "card": "利用可",
+        "catch": "かちかちレモンサワー 尾鷲産もちもちマグロ料理",
+        "charter": "貸切可 ：80名様～貸切OKです☆最大120名様までご案内可能な上野最大級の宴会スペース～ 個室 居酒屋～",
+        "child": "お子様連れOK ：お子様連れも歓迎致します♪ご家族でもゆったりお食事可能です。～個室 居酒屋～",
+        "close": "年中無休",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001275313/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001275313/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "あり",
+        "free_drink": "あり ：各種飲み放題付きコースをご用意。各種ご宴会の予約承っております！～個室 居酒屋～",
+        "free_food": "あり ：食べ放題プランございます。～ 個室 居酒屋～",
+        "genre": {
+          "catch": "上野　居酒屋 個室 肉バル 上野　駅近 宴会",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "あり ：座敷フロアのご用意はございませんが、お席のレイアウト等、お気軽にご相談下さい～個室 居酒屋～",
+        "id": "J001275313",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7105826964,
+        "lng": 139.773095025,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/72/71/P038037271/P038037271_69.jpg",
+        "lunch": "なし",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業している",
+        "mobile_access": "駅徒歩30秒の居酒屋!",
+        "name": "個室居酒屋 座楽 上野駅前店",
+        "name_kana": "こしついざかやざらくうえのえきまえてん",
+        "non_smoking": "一部禁煙",
+        "open": "月～日、祝日、祝前日: 13:00～翌0:00 （料理L.O. 23:30 ドリンクL.O. 23:30）",
+        "other_memo": "貸切や記念日特典など様々なサービスをご用意しております。",
+        "parking": "なし ：なし ：お近くのコインパーキングをご利用ください。～個室 居酒屋～",
+        "party_capacity": 120,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/13/90/P038071390/P038071390_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/13/90/P038071390/P038071390_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/13/90/P038071390/P038071390_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/13/90/P038071390/P038071390_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/13/90/P038071390/P038071390_58_s.jpg"
+          }
+        },
+        "private_room": "あり ：全席シート個室～ 個室 居酒屋～",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "～カチカチレモン 個室居酒屋 座楽～上野店",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G004", "name": "和食" },
+        "tatami": "なし ：座敷フロアのご用意はございませんが、お席のレイアウト等、お気軽にご相談下さい～個室 居酒屋～",
+        "tv": "なし",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001275313/?vos=nhppalsa000016"
+        },
+        "wedding": "バースデーパーティーや結婚式2次会の演出もお手伝いします。～個室 居酒屋～",
+        "wifi": "あり"
+      },
+      {
+        "access": "【上野駅徒歩2分】上野で和牛を堪能するなら牛宮！【上野/焼肉/食べ放題/飲み放題/デート/女子会】",
+        "address": "東京都台東区上野６-13-6武文ビル３F",
+        "band": "不可",
+        "barrier_free": "なし ：お手伝いが必要な際はお気軽にご連絡ください。",
+        "budget": {
+          "average": "2500円／24時までしっかり営業！感染症対策に留意しております。",
+          "code": "B002",
+          "name": "2001～3000円"
+        },
+        "budget_memo": "",
+        "capacity": 120,
+        "card": "利用可",
+        "catch": "卓上サワーで待ちなし☆ 和牛食べ放題1980円～♪",
+        "charter": "貸切不可 ：お気軽にお問い合わせくださいませ！(上野/焼肉/食べ放題/飲み放題/個室)",
+        "child": "お子様連れOK ：ママ会にもお使いいただけます。",
+        "close": "毎日24時まで営業しております。",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003411702/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003411702/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "なし",
+        "free_drink": "あり ：単品飲み放題1500円。もちろんコースも飲み放題付です。",
+        "free_food": "あり",
+        "genre": {
+          "catch": "国産和牛食べ放題1980円から！上タンも◎",
+          "code": "G008",
+          "name": "焼肉・ホルモン"
+        },
+        "horigotatsu": "なし ：掘りごたつ席ございます。女子会やママ会に好評です。(上野/焼肉/食べ放題/飲み放題/個室)",
+        "id": "J003411702",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.710740234,
+        "lng": 139.7751617875,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/84/38/P041098438/P041098438_69.jpg",
+        "lunch": "あり",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業していない",
+        "mobile_access": "上野駅徒歩2分 肉問屋の食べ放題1980円~♪",
+        "name": "ネオ焼肉酒場 牛宮 上野店",
+        "name_kana": "えーごくろげわぎゅうせんもんてん　にくけーき　ねおやきにくさかば　ぎゅうぎゅう　うえのてん",
+        "non_smoking": "禁煙席なし",
+        "open": "月～日、祝日、祝前日: 11:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:00）",
+        "other_memo": "ご不明点がございましたらお気軽にお問合せください♪",
+        "parking": "なし ：近隣のパーキングをご利用ください。",
+        "party_capacity": 150,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/84/36/P041098436/P041098436_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/84/36/P041098436/P041098436_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/84/36/P041098436/P041098436_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/84/36/P041098436/P041098436_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/84/36/P041098436/P041098436_58_s.jpg"
+          }
+        },
+        "private_room": "なし ：個室席完備♪半個室・区切られたスペースのお席がございます(上野/焼肉/食べ放題/飲み放題/個室)",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "コースはゆったり2時間コース～ご用意しております。",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G008", "name": "焼肉・ホルモン" },
+        "tatami": "なし ：お座敷ご用意ございます。宴会に大変人気なお部屋となっております(上野/焼肉/食べ放題/飲み放題/個室)",
+        "tv": "なし",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003411702/?vos=nhppalsa000016"
+        },
+        "wedding": "お気軽にご相談下さい。",
+        "wifi": "あり"
+      },
+      {
+        "access": "上野徒歩5分◆非日常を演出するライブを愉しみながらたしなむ。カラオケ付きVIP個室席有",
+        "address": "東京都台東区上野４-4-6上野B＆Vビル8F-9F",
+        "band": "可",
+        "barrier_free": "あり",
+        "budget": { "average": "3000", "code": "B003", "name": "3001～4000円" },
+        "budget_memo": "上野駅近の完全個室をご用意♪詳細は店舗へお問合せ下さい",
+        "capacity": 70,
+        "card": "利用可",
+        "catch": "カラオケ付♪完全VIP個室 本格中華の絶品★串料理！",
+        "charter": "貸切可 ：最大100名収容可能！ご予約を承っておりますのでお気軽にご相談下さい。",
+        "child": "お子様連れ歓迎 ：混み合う為、早めの時間帯でしたらお子様連れOKです。全席個室／完全個室でご用意していますのでご安心♪",
+        "close": "毎月第1月曜日",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003365069/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003365069/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "なし",
+        "free_drink": "なし ：個室で女子会や記念日等にご利用ください☆",
+        "free_food": "なし ：個室で女子会やお誕生日に☆",
+        "genre": {
+          "catch": "音楽と一緒に食事やお酒を楽しめるお店♪",
+          "code": "G002",
+          "name": "ダイニングバー・バル"
+        },
+        "horigotatsu": "なし ：最大100名収容可能！（レイアウトのご希望はお気軽にご相談下さい） 各種宴会のご予約承っております。",
+        "id": "J003365069",
+        "karaoke": "あり",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7091503711,
+        "lng": 139.7735964289,
+        "logo_image": "https://imgfp.hotp.jp/SYS/cmn/images/common/diary/custom/m30_img_noimage.gif",
+        "lunch": "あり",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業している",
+        "mobile_access": "上野徒歩5分◆ｶﾗｵｹ付きVIP個室席有",
+        "name": "Music Restaurant TOP 8Fパーティールーム個室 9Fミュージックレストラン 上野店",
+        "name_kana": "みゅーじっく　れすとらん　とっぷ　いざかや　からおけ　うえの　こしつ",
+        "non_smoking": "禁煙席なし",
+        "open": "月～木、祝前日: 12:00～翌4:00 （料理L.O. 翌3:00 ドリンクL.O. 翌3:30）金～日、祝日: 11:00～翌4:00 （料理L.O. 翌3:00 ドリンクL.O. 翌3:30）",
+        "other_memo": "宴会もお気軽にお問合せ下さい♪上野でパーティー/女子会/誕生日をお楽しみ★",
+        "parking": "なし ：お近くのコインパーキングをご利用ください。お酒を飲まれる際はお車でのお越しはご遠慮ください。",
+        "party_capacity": 100,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/72/39/P040317239/P040317239_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/72/39/P040317239/P040317239_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/72/39/P040317239/P040317239_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/72/39/P040317239/P040317239_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/72/39/P040317239/P040317239_58_s.jpg"
+          }
+        },
+        "private_room": "あり ：個室2名様～最大25名様までOK",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "上野店ではお昼のご宴会等、営業時間外の宴会もお気軽にお問合せ下さい♪完全個室もご用意あります♪",
+        "show": "あり",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G001", "name": "居酒屋" },
+        "tatami": "なし ：最大100名収容可能！（レイアウトのご希望はお気軽にご相談下さい） 各種宴会のご予約承っております。",
+        "tv": "あり",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003365069/?vos=nhppalsa000016"
+        },
+        "wedding": "貸切の婚礼などパーティーを承ります。お気軽にご相談下さい。パーティ/個室/記念日♪",
+        "wifi": "あり"
+      },
+      {
+        "access": "上野駅1分！本格懐石和食料理♪リーズナブルな創作居酒屋。オープン記念キャンペーン開催中◎完全個室は2名様～",
+        "address": "東京都台東区上野６丁目１３番８号上野ソシアルビル４F",
+        "band": "不可",
+        "barrier_free": "なし",
+        "budget": {
+          "average": "ランチ800円、ディナー2980円",
+          "code": "B003",
+          "name": "3001～4000円"
+        },
+        "budget_memo": "席のみのご利用はお通し代がございます。",
+        "capacity": 45,
+        "card": "利用可",
+        "catch": "冬季限定鍋コース デザートプレートでお祝い",
+        "charter": "貸切不可 ：35様以上で貸切も可能です！",
+        "child": "お子様連れOK ：ママ会・ご家族でのお食事など当店でお楽しみください",
+        "close": "なし",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003410576/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003410576/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "あり",
+        "free_drink": "あり ：お得なプラン多数ご用意しております！",
+        "free_food": "あり ：当店自慢の名物炙り肉寿司食べ放題！",
+        "genre": {
+          "catch": "上野 完全個室 居酒屋 肉寿司 焼鳥 海鮮鍋",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "あり ：ザ・プレミアム・モルツ付き　2時間飲み放題　1500円！！",
+        "id": "J003410576",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7110551987,
+        "lng": 139.7751667744,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/42/78/P041114278/P041114278_69.jpg",
+        "lunch": "なし",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業している",
+        "mobile_access": "上野駅徒歩1分",
+        "name": "こだわり和食居酒屋 肴うたげ 上野駅前店",
+        "name_kana": "なべりょうりとかいせんりょうり　こだわりわしょくいざかや　さかなうたげ　うえのえきまえてん",
+        "non_smoking": "禁煙席なし",
+        "open": "月～日: 11:00～翌0:00 （料理L.O. 23:30 ドリンクL.O. 23:30）",
+        "other_memo": "様々なシーンにご利用いただけるコース多数ご用意しております。",
+        "parking": "なし",
+        "party_capacity": 55,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/42/79/P041114279/P041114279_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/42/79/P041114279/P041114279_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/42/79/P041114279/P041114279_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/42/79/P041114279/P041114279_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/42/79/P041114279/P041114279_58_s.jpg"
+          }
+        },
+        "private_room": "あり ：オープン記念キャンペーン開催中◎",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野御徒町",
+        "sub_genre": { "code": "G004", "name": "和食" },
+        "tatami": "なし ：完全個室は2名様～団体様個室で貸切宴会可能",
+        "tv": "なし",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003410576/?vos=nhppalsa000016"
+        },
+        "wedding": "バースデーパーティーや結婚式2次会の演出もお手伝いします!",
+        "wifi": "なし"
+      },
+      {
+        "access": "【各線上野駅徒歩約5分】ブラジル流の焼肉シュラスコをたっぷり味わうなら《GOCCHI　BATTA》！",
+        "address": "東京都台東区上野４-9-6　7F",
+        "band": "可",
+        "barrier_free": "なし ：バリアフリー設備のご用意はございませんので、お手伝いが必要な方はスタッフまでお申し付けください。",
+        "budget": {
+          "average": "昼：2500円/夜：4000円",
+          "code": "B003",
+          "name": "3001～4000円"
+        },
+        "budget_memo": "無",
+        "capacity": 126,
+        "card": "利用可",
+        "catch": "期間限定2時間5,480円税込 幹事様無料でご招待",
+        "charter": "貸切可 ：貸切パーティー大歓迎！各種設備もご用意いたしました。ご利用シーンや人数など、お気軽にご相談ください。",
+        "child": "お子様連れ歓迎 ：お子様連れも大歓迎！全席禁煙なのでご家族でのゆったりお食事にもおすすめです。",
+        "close": "年末年始は休業致します",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001231407/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001231407/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "あり",
+        "free_drink": "あり ：カクテルは100種類以上！7種類の生ビールも常時飲み放題で充実のラインナップ！",
+        "free_food": "あり ：シュラスコ12種&ビュッフェ30種食べ放題プラン。鮮度抜群のブラジル野菜などサラダバイキングは女子会に！",
+        "genre": {
+          "catch": "上野 焼肉 食べ放題 シュラスコ 女子会 肉 ",
+          "code": "G008",
+          "name": "焼肉・ホルモン"
+        },
+        "horigotatsu": "なし ：ウエディング二次会、同窓会、企業での貸切パーティーにぜひご利用ください！上野最大級の広々店内♪",
+        "id": "J001231407",
+        "karaoke": "あり",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.710166102,
+        "lng": 139.774041628,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/65/76/P022656576/P022656576_69.jpg",
+        "lunch": "あり",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業していない",
+        "mobile_access": "駅近!各線上野駅徒歩約3分☆",
+        "name": "GOCCHI BATTA ゴッチ バッタ 上野 シュラスコ&ビアバー",
+        "name_kana": "しゅらすこあんどびあばー　ごっちばった　うえの",
+        "non_smoking": "全面禁煙",
+        "open": "月～金、祝前日: 16:00～22:00 （料理L.O. 21:30 ドリンクL.O. 22:00）土、日、祝日: 12:00～15:3016:00～22:00 （料理L.O. 21:30 ドリンクL.O. 22:00）",
+        "other_memo": "120インチのプロジェクター、マイク、音響設備等貸切パーティーに必要なアイテムあり",
+        "parking": "なし ：お近くのコインパーキングをご利用ください。またお酒を飲まれる際はお車でのお越しはお控えくださいませ。",
+        "party_capacity": 150,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/92/93/P032139293/P032139293_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/92/93/P032139293/P032139293_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/92/93/P032139293/P032139293_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/92/93/P032139293/P032139293_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/92/93/P032139293/P032139293_58_s.jpg"
+          }
+        },
+        "private_room": "あり ：最大6名様までの完全個室。（※個室利用の場合コース料金にお1人様+1000円頂いております。",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "大人数での貸切パーティーの下見見学ご相談承ります。ご不明点等、まずはお電話ください！",
+        "show": "あり",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G002", "name": "ダイニングバー・バル" },
+        "tatami": "なし ：サプライズ演出もお手伝いいたします！記念日、誕生日の特別な日のお祝いにいかがでしょうか？",
+        "tv": "あり",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001231407/?vos=nhppalsa000016"
+        },
+        "wedding": "大規模なバースデーパーティーや結婚式二次会の演出もお手伝いします。詳細は店舗まで",
+        "wifi": "あり"
+      },
+      {
+        "access": "上野駅徒歩1分！2名様~120名様まで完全個室あり！2時間100種以上全品食べ飲み放題コース2000円~",
+        "address": "東京都台東区上野６-14-6　山田ビル4F",
+        "band": "不可",
+        "barrier_free": "なし ：お手伝いが必要な際はお気軽にご連絡ください。",
+        "budget": {
+          "average": "2500円／24時までしっかり営業！感染症対策に留意しております。",
+          "code": "B002",
+          "name": "2001～3000円"
+        },
+        "budget_memo": "",
+        "capacity": 120,
+        "card": "利用可",
+        "catch": "上野1の豊富な品揃え♪ 和も洋も選べる食べ放題♪",
+        "charter": "貸切不可 ：お気軽にお問い合わせくださいませ！(新宿三丁目/個室)",
+        "child": "お子様連れOK ：ママ会にもお使いいただけます。",
+        "close": "毎日24時まで営業しております。",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001296254/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001296254/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "なし",
+        "free_drink": "あり ：単品飲み放題1500円。もちろんコースも飲み放題付です。",
+        "free_food": "あり",
+        "genre": {
+          "catch": "100種以上全品食べ飲み放題2000円♪",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "なし ：掘りごたつ席ございます。女子会やママ会に好評です。(新宿三丁目/個室)",
+        "id": "J001296254",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7112368516,
+        "lng": 139.7754164681,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/43/73/P039454373/P039454373_69.jpg",
+        "lunch": "あり",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業していない",
+        "mobile_access": "上野駅徒歩1分  和食全品or洋食全品食べ放題2000円",
+        "name": "肉バル全品2000円食べ飲み放題 夜景が見えるバル酒場 ヨルソラ上野店",
+        "name_kana": "にくばるぜんぴんにせんえんたべほうだい　やけいがみえるばるさかば　よるそらうえのてん",
+        "non_smoking": "禁煙席なし",
+        "open": "月～日、祝日、祝前日: 11:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:00）",
+        "other_memo": "ご不明点がございましたらお気軽にお問合せください♪",
+        "parking": "なし ：近隣のパーキングをご利用ください。",
+        "party_capacity": 150,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/43/78/P039454378/P039454378_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/43/78/P039454378/P039454378_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/43/78/P039454378/P039454378_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/43/78/P039454378/P039454378_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/43/78/P039454378/P039454378_58_s.jpg"
+          }
+        },
+        "private_room": "なし ：個室席完備♪半個室・区切られたスペースのお席がございます。(新宿三丁目/個室)",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "コースはゆったり2時間コース～ご用意しております。",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G001", "name": "居酒屋" },
+        "tatami": "なし ：お座敷ご用意ございます。宴会に大変人気なお部屋となっております(新宿三丁目/個室)",
+        "tv": "なし",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001296254/?vos=nhppalsa000016"
+        },
+        "wedding": "お気軽にご相談下さい。",
+        "wifi": "あり"
+      },
+      {
+        "access": "JR山手線 ／ 上野駅(出入口5b) 徒歩1分（66m）京成本線 ／ 京成上野駅(正面口) 徒歩2分（160m）",
+        "address": "東京都台東区上野６丁目13-9 新都乃田ビル6階",
+        "band": "不可",
+        "barrier_free": "なし ：バリアフリーなどはございません。ご配慮が必要なお客様が致しましたらスタッフがお手伝いさせて頂きます。",
+        "budget": {
+          "average": "ランチ1000円前後/ディナー2500円前後でご利用が可能です。",
+          "code": "B002",
+          "name": "2001～3000円"
+        },
+        "budget_memo": "",
+        "capacity": 120,
+        "card": "利用可",
+        "catch": "充実のお料理+3ｈ飲放付 ゆったり個室で安心♪",
+        "charter": "貸切不可 ：貸切予約可能です。プロジェクターモニター類ございますのでお気軽にお問い合わせ下さい。",
+        "child": "お子様連れ歓迎 ：お子様連れ大歓迎です。個室などのご希望がございましたらご連絡下さいませ。",
+        "close": "年中無休",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ003298686/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ003298686/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "あり",
+        "free_drink": "あり ：単品飲み放題もご利用できます。お料理は当日お好きな物をご注文下さいませ。",
+        "free_food": "あり ：焼き鳥食べ放題や飲み放題付のコースが多数ございます!!",
+        "genre": {
+          "catch": "全席完全個室で味わう肉寿司食べ放題",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "なし ：掘りごたつはの完全個室あり。少人数様やチョイ飲みの方には個室利用可能です",
+        "id": "J003298686",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7108721719,
+        "lng": 139.7754714781,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/46/54/P040584654/P040584654_69.jpg",
+        "lunch": "あり",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業している",
+        "mobile_access": "東京ﾒﾄﾛ上野駅5b出口より徒歩約1分",
+        "name": "食べ放題　飲み放題　個室居酒屋　みやこ 上野アメ横店",
+        "name_kana": "たべほうだいのみほうだい　こしついざかや　みやこ　うえのあめよこてん",
+        "non_smoking": "一部禁煙",
+        "open": "月～日、祝日、祝前日: 11:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）",
+        "other_memo": "",
+        "parking": "なし ：専属の駐車場はございません。お近くのパーキングなどをご利用下さいませ。",
+        "party_capacity": 120,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/47/69/P040584769/P040584769_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/47/69/P040584769/P040584769_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/47/69/P040584769/P040584769_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/47/69/P040584769/P040584769_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/47/69/P040584769/P040584769_58_s.jpg"
+          }
+        },
+        "private_room": "あり ：個室、半個室、完全個室を完備しております。禁煙席や喫煙席などございますのでご利用時にお問合せ下さい",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "★予約受付時間10:30～24:00★※お昼の宴会、営業時間外の宴会もお気軽にお問合せ下さい",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G002", "name": "ダイニングバー・バル" },
+        "tatami": "なし ：座敷席は設けておりません。ゆっくり飲み会方には個室席のご利用をオススメさせて頂いております",
+        "tv": "なし",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ003298686/?vos=nhppalsa000016"
+        },
+        "wedding": "貸切宴会 ・120名まで。ご予算 ・ ご人数 ・ お時間 etc・・お気軽にご相談下さい。",
+        "wifi": "あり"
+      },
+      {
+        "access": "ＪＲ御徒町駅北口徒歩5分改札を出て左。通り沿いを直進。上野広小路交差点を過ぎ、少し進むと左手にお店があります。",
+        "address": "東京都文京区湯島３-３８-１１　エスパス上野広小路４Ｆ",
+        "band": "不可",
+        "barrier_free": "あり ：店内に段差はございません",
+        "budget": {
+          "average": "ランチ：1000円　ディナー：5000円",
+          "code": "B004",
+          "name": "5001～7000円"
+        },
+        "budget_memo": "※10％のサービス料を頂いております。",
+        "capacity": 54,
+        "card": "利用可",
+        "catch": "中国料理を豊富にご用意♪ お一人様でも◎テーブル席",
+        "charter": "貸切不可",
+        "child": "お子様連れ歓迎",
+        "close": "11月より火曜日定休となります。詳細は店舗へご連絡ください。",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001135897/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001135897/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "あり",
+        "free_drink": "なし ：2時間1800円",
+        "free_food": "なし",
+        "genre": {
+          "catch": "羊の焼肉と本格中華が楽しめる♪ランチも◎",
+          "code": "G007",
+          "name": "中華"
+        },
+        "horigotatsu": "なし",
+        "id": "J001135897",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7080045999,
+        "lng": 139.7710961319,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/59/27/P040535927/P040535927_69.jpg",
+        "lunch": "あり",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業していない",
+        "mobile_access": "JR御徒町徒歩5分 湯島駅徒歩2分 ",
+        "name": "中国料理 喜羊門 御徒町本店",
+        "name_kana": "ちゅうごくりょうり　きようもん　おかちまちほんてん",
+        "non_smoking": "全面禁煙",
+        "open": "月～日、祝日、祝前日: 11:00～23:30 （料理L.O. 22:30 ドリンクL.O. 22:30）",
+        "other_memo": "",
+        "parking": "なし ：近隣の駐車場をご使用ください◎",
+        "party_capacity": 70,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/59/28/P040535928/P040535928_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/59/28/P040535928/P040535928_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/59/28/P040535928/P040535928_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/59/28/P040535928/P040535928_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/59/28/P040535928/P040535928_58_s.jpg"
+          }
+        },
+        "private_room": "なし",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "※10％のサービス料を頂いております。",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "御徒町",
+        "sub_genre": { "code": "G008", "name": "焼肉・ホルモン" },
+        "tatami": "なし",
+        "tv": "なし",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001135897/?vos=nhppalsa000016"
+        },
+        "wedding": "",
+        "wifi": "あり"
+      },
+      {
+        "access": "上野駅徒歩3分　京成上野徒歩3分　上野御徒町徒歩1分",
+        "address": "東京都台東区上野２-１２-２３　ユーワンビル５F",
+        "band": "不可",
+        "barrier_free": "なし ：お困りの点があれば何なりとお声がけください。当店のスタッフがお客様のご要望に全力でお応えいたします。",
+        "budget": {
+          "average": "6000円",
+          "code": "B008",
+          "name": "4001～5000円"
+        },
+        "budget_memo": "席のみ予約 チャージ料：650円",
+        "capacity": 32,
+        "card": "利用可",
+        "catch": "現代に甦るノーチラス号 海中から臨むような大水槽",
+        "charter": "貸切不可 ：貸切でのご利用については店舗へとお問い合わせください。",
+        "child": "お子様連れOK ： お子様のご入店は小学生以上から承ります。(小学生未満不可)",
+        "close": "年中無休",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001287247/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001287247/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "なし",
+        "free_drink": "あり ：単品飲み放題は2時間、3時間の2種類のプランを用意しております。ご利用シーンに合わせてお選びください。",
+        "free_food": "なし",
+        "genre": {
+          "catch": "現代に甦るノーチラス号",
+          "code": "G002",
+          "name": "ダイニングバー・バル"
+        },
+        "horigotatsu": "なし ：2～6名様用の完全個室・半個室を完備をご用意しております全席ソファ席にてご用意しております。",
+        "id": "J001287247",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7097213972,
+        "lng": 139.7728228605,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/18/28/P039101828/P039101828_69.jpg",
+        "lunch": "あり",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業していない",
+        "mobile_access": "上野駅徒歩3分 京成上野徒歩3分 上野御徒町徒歩1分",
+        "name": "アクアリウムレストラン Nautilus ノーチラス 上野",
+        "name_kana": "うえの　あくありうむれすとらん　のーちらす　",
+        "non_smoking": "全面禁煙",
+        "open": "月～日、祝日、祝前日: 12:00～23:30 （料理L.O. 22:30 ドリンクL.O. 23:00）",
+        "other_memo": "",
+        "parking": "なし ：徒歩すぐの場所に、コインパーキングがございます。お手数ではございますが、そちらをご利用くださいませ。",
+        "party_capacity": 6,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/18/29/P039101829/P039101829_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/18/29/P039101829/P039101829_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/18/29/P039101829/P039101829_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/18/29/P039101829/P039101829_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/18/29/P039101829/P039101829_58_s.jpg"
+          }
+        },
+        "private_room": "あり ：2～6名様用の完全個室・半個室を完備をご用意しております",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "お客様のご要望にはスタッフ一同可能な限り対応させていただきます。ぜひともお気軽にご相談くださいませ！",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G006", "name": "イタリアン・フレンチ" },
+        "tatami": "なし ：2～6名様用の完全個室・半個室を完備をご用意しております全席ソファ席にてご用意しております。",
+        "tv": "なし",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001287247/?vos=nhppalsa000016"
+        },
+        "wedding": "ラグジュアリーな雰囲気は結婚式や二次会などパーティーでのご利用にもおすすめです。",
+        "wifi": "なし"
+      },
+      {
+        "access": "JR上野駅徒歩1分/　【焼き鳥と野菜巻きと餃子が旨い店　完全個室　はなこま　上野店】",
+        "address": "東京都台東区上野６-14-6 山田ビル4F",
+        "band": "不可",
+        "barrier_free": "なし ：お手伝いが必要な際はお気軽にご連絡ください。(上野/シュラスコ/食べ放題/飲み放題/ランチ/誕生日/記念日)",
+        "budget": {
+          "average": "３５００円",
+          "code": "B003",
+          "name": "3001～4000円"
+        },
+        "budget_memo": "",
+        "capacity": 120,
+        "card": "利用可",
+        "catch": "個室席多数ご用意してます 素材にこだわり抜いた逸品",
+        "charter": "貸切不可 ：お気軽にお問い合わせくださいませ！(上野/シュラスコ/肉寿司/食べ放題/飲み放題/ランチ/誕生日/記念日)",
+        "child": "お子様連れ歓迎 ：ママ会にもお使いいただけます。(上野/シュラスコ/肉寿司/居酒屋/食べ放題/飲み放題/ランチ/誕生日/記念日)",
+        "close": "不定休日あり",
+        "coupon_urls": {
+          "pc": "https://www.hotpepper.jp/strJ001294932/map/?vos=nhppalsa000016",
+          "sp": "https://www.hotpepper.jp/strJ001294932/scoupon/?vos=nhppalsa000016"
+        },
+        "course": "あり",
+        "english": "なし",
+        "free_drink": "あり ：単品飲み放題1500円。もちろんコースも飲み放題付です。",
+        "free_food": "あり ：充実のシュラスコ食べ放題コースをご用意！",
+        "genre": {
+          "catch": "上野初！焼き鳥＆野菜巻き＆餃子食べ放題♪",
+          "code": "G001",
+          "name": "居酒屋"
+        },
+        "horigotatsu": "なし ：女子会やママ会に好評です。(上野/シュラスコ/肉寿司/居酒屋/食べ放題/飲み放題/ランチ/誕生日/記念日)",
+        "id": "J001294932",
+        "karaoke": "なし",
+        "ktai_coupon": 0,
+        "large_area": { "code": "Z011", "name": "東京" },
+        "large_service_area": { "code": "SS10", "name": "関東" },
+        "lat": 35.7111985219,
+        "lng": 139.7753917495,
+        "logo_image": "https://imgfp.hotp.jp/IMGH/31/14/P040083114/P040083114_69.jpg",
+        "lunch": "あり",
+        "middle_area": { "code": "Y015", "name": "上野・御徒町・浅草" },
+        "midnight": "営業している",
+        "mobile_access": "JR上野駅徒歩3分/JP御徒町駅徒歩2分",
+        "name": "焼鳥&鉄板餃子&野菜巻き串 はなこま 上野店",
+        "name_kana": "やきとり　てっぱんぎょうざ　やさいまきくし　たべほうだい　かんぜんこしつ　はなこま　うえのてん",
+        "non_smoking": "禁煙席なし",
+        "open": "月～日、祝日、祝前日: 12:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:30）",
+        "other_memo": "ご不明点がございましたらお気軽にお問合せください♪",
+        "parking": "なし ：近隣のパーキングをご利用ください。(上野/シュラスコ/居酒屋/食べ放題/飲み放題/ランチ/誕生日/記念日)",
+        "party_capacity": 150,
+        "pet": "不可",
+        "photo": {
+          "mobile": {
+            "l": "https://imgfp.hotp.jp/IMGH/31/20/P040083120/P040083120_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/31/20/P040083120/P040083120_100.jpg"
+          },
+          "pc": {
+            "l": "https://imgfp.hotp.jp/IMGH/31/20/P040083120/P040083120_238.jpg",
+            "m": "https://imgfp.hotp.jp/IMGH/31/20/P040083120/P040083120_168.jpg",
+            "s": "https://imgfp.hotp.jp/IMGH/31/20/P040083120/P040083120_58_s.jpg"
+          }
+        },
+        "private_room": "なし ：個室席完備♪半個室・区切られたスペースのお席がございます。",
+        "service_area": { "code": "SA11", "name": "東京" },
+        "shop_detail_memo": "コースはゆったり2時間コース～ご用意しております。",
+        "show": "なし",
+        "small_area": { "code": "X045", "name": "上野" },
+        "station_name": "上野",
+        "sub_genre": { "code": "G001", "name": "居酒屋" },
+        "tatami": "なし ：お座敷ご用意ございます。宴会に大変人気なお部屋となっております",
+        "tv": "あり",
+        "urls": {
+          "pc": "https://www.hotpepper.jp/strJ001294932/?vos=nhppalsa000016"
+        },
+        "wedding": "お気軽にご相談下さい。",
+        "wifi": "あり"
+      }
+    ]
+  }
+}
