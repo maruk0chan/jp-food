@@ -5,16 +5,26 @@ interface AutocompleteInputProps {
   title: string
 }
 
+interface Movie {
+  title: string
+  year: number
+}
+
 const AutocompleteInput = ({ title }: AutocompleteInputProps) => {
-  const options = ['Default 1', 'Option 2', 'Option 3', 'Option 4', 'Option 5']
-  const [value, setValue] = useState<string | null>(options[0]);
+  const options = [
+    { title: 'The Shawshank Redemption', year: 1994 },
+    { title: 'The Godfather', year: 1972 },
+    { title: 'The Godfather: Part II', year: 1974 },
+    { title: 'The Dark Knight', year: 2008 },
+    { title: '12 Angry Men', year: 1957 }]  
+  const [value, setValue] = useState<Movie | null>(options[0]);
   const [inputValue, setInputValue] = useState('');
 
   return (
     <Autocomplete
       disablePortal
       value={value}
-      onChange={(event: any, newValue: string | null) => {
+      onChange={(event: any, newValue: Movie | null) => {
         setValue(newValue);
       }}
       inputValue={inputValue}
@@ -30,6 +40,7 @@ const AutocompleteInput = ({ title }: AutocompleteInputProps) => {
           label={title}
         />
       )}
+      getOptionLabel={(option) => option.title ?? option}
     />
   )
 }
