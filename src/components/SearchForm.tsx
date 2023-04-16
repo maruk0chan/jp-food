@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
-import AutoCompleteInput from './AutoCompleteInput'
-import MultipleOptionsInput from './MultipleOptionsInput'
+import AutocompleteInput from './AutocompleteInput'
+import MultipleAutocompleteInput from './MultipleAutocompleteInput'
 
 const url =
   'https://corsproxy.io/?' +
@@ -23,19 +23,19 @@ const SearchForm = () => {
     <div className="border-double border-4 border-sky-500 space-y-4">
       <div>Search Conditions</div>
       <div>
-        <MultipleOptionsInput
+        <MultipleAutocompleteInput
           title="Areas"
           placeholder="e.g. Ginza"
         />
       </div>
       <div>
-        <MultipleOptionsInput
+        <MultipleAutocompleteInput
           title="Budget (¥)"
           placeholder="foobar"
         />
       </div>
       <div>
-        <AutoCompleteInput title="No. of results" />
+        <AutocompleteInput title="No. of results" />
       </div>
       <div>
         <label htmlFor="capacity">Party Capacity (more than)</label>

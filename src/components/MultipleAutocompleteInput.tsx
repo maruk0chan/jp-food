@@ -3,15 +3,15 @@ import Chip from '@mui/material/Chip'
 import TextField from '@mui/material/TextField'
 import Autocomplete from '@mui/material/Autocomplete'
 
-interface MultipleOptionsInputProps {
+interface MultipleAutocompleteInputProps {
   title: string
   placeholder: string
 }
 
-const MultipleOptionsInput = ({
+const MultipleAutocompleteInput = ({
   title,
   placeholder,
-}: MultipleOptionsInputProps) => {
+}: MultipleAutocompleteInputProps) => {
   const fixedOptions = [top100Films[6]]
   const [value, setValue] = React.useState([...fixedOptions, top100Films[13]])
 
@@ -178,4 +178,4 @@ const top100Films = [
   { title: 'Monty Python and the Holy Grail', year: 1975 },
 ]
 
-export default MultipleOptionsInput
+export default MultipleAutocompleteInput

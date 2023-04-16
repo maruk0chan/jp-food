@@ -1,10 +1,10 @@
 import { Autocomplete, TextField } from '@mui/material'
 
-interface AutoCompleteInputProps {
+interface AutocompleteInputProps {
   title: string
 }
 
-const AutoCompleteInput = ({ title }: AutoCompleteInputProps) => {
+const AutocompleteInput = ({ title }: AutocompleteInputProps) => {
   const options = ['The Godfather', 'Pulp Fiction']
 
   return (
@@ -23,4 +23,4 @@ const AutoCompleteInput = ({ title }: AutoCompleteInputProps) => {
   )
 }
 
-export default AutoCompleteInput
+export default AutocompleteInput
