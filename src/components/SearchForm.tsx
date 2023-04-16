@@ -11,17 +11,13 @@ const url =
 const SearchForm = () => {
   const [data, setData] = useState()
 
-  useEffect(() => {
-    // fetch data
-    const dataFetch = async () => {
-      const data = await (await fetch(url)).json()
+  // fetch data
+  const dataFetch = async () => {
+    const data = await (await fetch(url)).json()
 
-      // set state when the data received
-      setData(data)
-    }
-
-    dataFetch()
-  }, [])
+    // set state when the data received
+    setData(data)
+  }
 
   return (
     <div className="border-double border-4 border-sky-500 space-y-4">
@@ -34,7 +30,7 @@ const SearchForm = () => {
       </div>
       <div>
         <MultipleOptionsInput
-          title="Budget (¥)"und
+          title="Budget (¥)"
           placeholder="foobar"
         />
       </div>
@@ -46,7 +42,7 @@ const SearchForm = () => {
         <input type="number" />
       </div>
       <div>
-        <button>Search</button>
+        <button onClick={dataFetch}>Search</button>
         <button>Copy</button>
       </div>
     </div>
