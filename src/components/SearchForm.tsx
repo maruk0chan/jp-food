@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react'
 import AutocompleteInput from './AutocompleteInput'
 import MultipleAutocompleteInput from './MultipleAutocompleteInput'
 import hot_pepper_api from '../json/hot_pepper_api.json'
+import axios from 'axios'
 
 const corsProxyPrefix = 'https://corsproxy.io/?'
 
@@ -19,12 +20,19 @@ const SearchForm = () => {
 
   // fetch data
   const dataFetch = async () => {
-    const data = await (await fetch(url)).json()
+    await axios
+      .get(url)
+      .then(function (response) {
+        const { data } = response
+        setData(data)
+        console.log(`🤖\x1B[40;93;1mdata: \x1B[m`, data.results.shop)
+        setShopList(data.results.shop)
+      })
+      .catch(function (error) {
+        console.log(error)
+      })
 
     // set state when the data received
-    setData(data)
-    console.log(`🤖\x1B[40;93;1mdata: \x1B[m`, data.results.shop)
-    setShopList(data.results.shop)
   }
 
   return (
