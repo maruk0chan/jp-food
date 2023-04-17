@@ -3,6 +3,7 @@ import AutocompleteInput from './AutocompleteInput'
 import MultipleAutocompleteInput from './MultipleAutocompleteInput'
 import hot_pepper_api from '../json/hot_pepper_api.json'
 import axios from 'axios'
+import areaList from '../json/small_area.json'
 
 const corsProxyPrefix = 'https://corsproxy.io/?'
 
@@ -41,13 +42,19 @@ const SearchForm = () => {
       <div>
         <MultipleAutocompleteInput
           title="Areas"
-          placeholder="e.g. Ginza"
+          placeholder="Ginza"
+          list={areaList}
+          displayAttribute={['en','ja']}
+          valueAttribute="id"
         />
       </div>
       <div>
         <MultipleAutocompleteInput
           title="Budget (¥)"
-          placeholder="foobar"
+          placeholder="¥2,000 ~ ¥5,000"
+          list={areaList}
+          displayAttribute="ja"
+          valueAttribute="id"
         />
       </div>
       <div>
