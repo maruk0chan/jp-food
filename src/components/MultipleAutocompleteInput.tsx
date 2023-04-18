@@ -19,6 +19,7 @@ const MultipleAutocompleteInput = (props: MultipleAutocompleteInputProps) => {
     if (!!fixedOptions) return [...fixedOptions]
   })
   const composeLabel: (option: any) => string = (option: any) => {
+    if (!displayAttribute) return option
     if (Array.isArray(displayAttribute)) {
       let label = ''
       displayAttribute.forEach((item) => {

@@ -4,13 +4,28 @@ import { useState } from 'react'
 interface AutocompleteInputProps {
   title: string
   list: string[]
+  displayAttribute: string | string[]
+  valueAttribute: string
 }
 
 const AutocompleteInput = (props: AutocompleteInputProps) => {
-  const { title, list } = props
+  const { title, list, displayAttribute, valueAttribute } = props
   const options = list
   const [value, setValue] = useState(options[0])
   const [inputValue, setInputValue] = useState('')
+
+  const composeLabel: (option: any) => string = (option: any) => {
+    if (!displayAttribute) return option
+    if (Array.isArray(displayAttribute)) {
+      let label = ''
+      displayAttribute.forEach((item) => {
+        label += option[item] + ' '
+      })
+      return label.trim()
+    } else {
+      return option[displayAttribute]
+    }
+  }
 
   return (
     <Autocomplete
@@ -32,7 +47,7 @@ const AutocompleteInput = (props: AutocompleteInputProps) => {
           label={title}
         />
       )}
-      getOptionLabel={(option) => option.title ?? option}
+      getOptionLabel={(option) => composeLabel(option)}
     />
   )
 }
