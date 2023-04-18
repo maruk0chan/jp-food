@@ -4,7 +4,6 @@ import Introduction from '@/components/Introduction'
 import SearchForm from '@/components/SearchForm'
 import ResultTable from '@/components/ResultTable'
 
-
 const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
