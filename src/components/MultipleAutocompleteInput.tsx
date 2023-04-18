@@ -9,12 +9,15 @@ interface MultipleAutocompleteInputProps {
   placeholder: string
   displayAttribute: string | string[]
   valueAttribute: string
+  exampleOptionIndices?: number[]
 }
 
 const MultipleAutocompleteInput = (props: MultipleAutocompleteInputProps) => {
-  const { list, title, placeholder, displayAttribute, valueAttribute } = props
-  const fixedOptions = [list[6]]
-  const [value, setValue] = React.useState([...fixedOptions, list[13]])
+  const { list, title, placeholder, displayAttribute, valueAttribute, exampleOptionIndices } = props
+  const fixedOptions = exampleOptionIndices?.map(i=>list[i])
+  const [value, setValue] = React.useState(()=>{
+    if (!!fixedOptions) return [...fixedOptions]
+  })
   const composeLabel: (option: any) => string = (option: any) => {
     if (Array.isArray(displayAttribute)) {
       let label = ''
@@ -34,7 +37,7 @@ const MultipleAutocompleteInput = (props: MultipleAutocompleteInputProps) => {
       value={value}
       onChange={(event, newValue) => {
         setValue([
-          ...newValue.filter((option) => fixedOptions.indexOf(option) === -1),
+          ...newValue.filter((option) => fixedOptions?.indexOf(option) === -1),
         ])
       }}
       options={list}
@@ -45,7 +48,7 @@ const MultipleAutocompleteInput = (props: MultipleAutocompleteInputProps) => {
             label={composeLabel(option)}
             {...getTagProps({ index })}
             key={option.id}
-            disabled={fixedOptions.indexOf(option) !== -1}
+            // disabled={fixedOptions?.indexOf(option) !== -1}
           />
         ))
       }
