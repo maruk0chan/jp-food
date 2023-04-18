@@ -61,7 +61,10 @@ const SearchForm = () => {
         />
       </div>
       <div>
-        <AutocompleteInput title="No. of results" />
+        <AutocompleteInput
+          title="No. of results"
+          list={['10', '20', '50', '100']}
+        />
       </div>
       <div>
         <label htmlFor="capacity">Party Capacity (more than)</label>
