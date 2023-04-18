@@ -5,6 +5,7 @@ import hot_pepper_api from '../json/hot_pepper_api.json'
 import axios from 'axios'
 import areaList from '../json/small_area.json'
 import queryMap from '../json/query_map.json'
+import { Counter } from '../features/counter/Counter';
 
 const corsProxyPrefix = 'https://corsproxy.io/?'
 
@@ -40,6 +41,7 @@ const SearchForm = () => {
   return (
     <div className="border-double border-4 border-sky-500 space-y-4">
       <div>Search Conditions</div>
+      <Counter></Counter>
       <div>
         <MultipleAutocompleteInput
           title="Areas"
