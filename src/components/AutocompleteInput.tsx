@@ -2,10 +2,10 @@ import { Autocomplete, TextField } from '@mui/material'
 import { useState } from 'react'
 
 interface AutocompleteInputProps {
+  list: any[]
   title: string
-  list: string[]
-  displayAttribute: string | string[]
-  valueAttribute: string
+  displayAttribute?: string | string[]
+  valueAttribute?: string
 }
 
 const AutocompleteInput = (props: AutocompleteInputProps) => {
